@@ -1,10 +1,7 @@
-
 on:
   push:
      branches:
        - master
-
-  
 
 name: renderbook
 
@@ -22,8 +19,8 @@ jobs:
         run: Rscript -e 'bookdown::render_book("index.Rmd")'
       - uses: actions/upload-artifact@v1
         with:
-          name: _site
-          path: _site/
+          name: _book
+          path: _book/
   
   checkout-and-deploy:
    runs-on: ubuntu-latest
@@ -35,15 +32,15 @@ jobs:
        uses: actions/download-artifact@v1.0.0
        with:
          # Artifact name
-         name: _site # optional
+         name: _book # optional
          # Destination path
-         path: _site # optional
+         path: _book # optional
      - name: Deploy to GitHub Pages
        uses: Cecilapp/GitHub-Pages-deploy@v3
        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
        with:
           email: ${{ secrets.EMAIL }}
-          build_dir: _site  # optional
+          build_dir: _book  # optional
           branch: gh_pages  # optional
           jekyll: no        # optional
