@@ -42,5 +42,5 @@ jobs:
        with:
           email: ${{ secrets.EMAIL }}
           build_dir: _book  # optional
-          branch: gh_pages  # optional
+          branch: gh-pages  # optional
           jekyll: no        # optional
