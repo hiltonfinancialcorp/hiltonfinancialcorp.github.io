@@ -11,3 +11,5 @@ link-citations: yes
 github-repo: spencerfamilycookbook/spencerfamilycookbook.github.io
 description: "Recipes from the Spencer Family"
 ---
+
+This is the Spencer Family Cookbook!
