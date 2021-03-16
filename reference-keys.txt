@@ -8,6 +8,14 @@ cowboy-caviar
 chef-patricia-blair
 ingredients-1
 directions-1
+cream-of-coconut-fruit-dip
+chef-jennifer-gustin
+ingredients-2
+directions-2
+cucumber-sandwiches
+chef-patricia-blair-1
+ingredients-3
+directions-3
 literature
 methods
 applications
