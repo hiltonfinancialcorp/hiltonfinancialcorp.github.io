@@ -1,7 +1,13 @@
-fig:nice-fig
-tab:nice-tab
 prerequisites
-intro
+appetizers
+artichoke-dip
+chef-debbie
+ingredients
+directions
+cowboy-caviar
+chef-patty
+ingredients-1
+directions-1
 literature
 methods
 applications
