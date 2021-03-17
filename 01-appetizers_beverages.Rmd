@@ -1,10 +1,10 @@
 # Appetizers and Beverages {#appetizers}
 
-## ARTICHOKE DIP
+## ARTICHOKE DIP {-}
 
-### Chef: Debbie Wescott
+### Chef: Debbie Wescott {-}
 
-### Ingredients
+### Ingredients {-}
 - 2  8oz packages of cream cheese - softened
 - 1/2 cup mayonnaise
 - 3 to 5 cloves of garlic (or 3 tablespoons of Minced garlic)
@@ -14,7 +14,7 @@
 - 1/2 cup grated Parmesan cheese
 - 1 cup of Mozzoretta cheese - grated
 
-### Directions
+### Directions {-}
 Cream the cream cheese, mayonnaise and garlic together and set aside. 
 Mix remaining ingredients down the list to Parmesan cheese. 
 Combine parts 1 and 2 and spread into a baking dish. 
@@ -23,11 +23,11 @@ Bake 5 more minutes until light golden brown.
 Serve with fresh veggies or crackers. 
 YUM!
 
-## COWBOY CAVIAR
+## COWBOY CAVIAR {-}
 
-### Chef: Patricia Blair
+### Chef: Patricia Blair {-}
 
-### Ingredients
+### Ingredients {-}
 - 15oz can black eyed peas - drained
 - 2/3 cup cilantro - chopped
 - 2/3 cup green onion - chopped
@@ -40,27 +40,27 @@ YUM!
 - 1/8 teaspoon pepper
 - 1/2 teaspoon cumin
 
-### Directions
+### Directions {-}
 Marinate all ingredients together 6+ hours. Add 2 large tomatoes and 2 avacados 30 minutes before serving.
 
-## CREAM OF COCONUT FRUIT DIP
+## CREAM OF COCONUT FRUIT DIP {-}
 
-### Chef: Jennifer Gustin
+### Chef: Jennifer Gustin {-}
 
-### Ingredients
+### Ingredients {-}
 - 1 package instant vanilla pudding (4.6 oz)
 - 1 container cream of coconut (found in alchol mix section)
 - 16 oz whipped cream (Cool Whip)
 
-### Directions
+### Directions {-}
 Combine all three ingredients together and chill for one hour so pudding dissolves completely. 
 Serve with fruit. Great with sliced apple.
 
-## CUCUMBER SANDWICHES
+## CUCUMBER SANDWICHES {-}
 
-### Chef: Patricia Blair
+### Chef: Patricia Blair {-}
 
-### Ingredients
+### Ingredients {-}
 - 8 oz cream cheese
 - 2 tablespoons mayonnaise
 - 2 green onions - diced
@@ -71,21 +71,21 @@ Serve with fruit. Great with sliced apple.
 - tomatoes - sliced
 - bread - crust removed
 
-### Directions
+### Directions {-}
 Combine together: cream cheese, mayonnaise, green onions, Bon Appettit, dill weed, and garlic salt. 
 Spread mixture on bread and layer with sliced cucumber and tomato. Cover and refrigerate until ready to use.
 
-## DAD'S SUNDAY EVENING POPCORN
+## DAD'S SUNDAY EVENING POPCORN {-}
 
-### Chef: Alvin Spencer
+### Chef: Alvin Spencer {-}
 
-### Ingredients
+### Ingredients {-}
 - 1/2 cup of popcorn - uncooked
 - 1 to 3 teaspoons of olive oil
 - 1/4 cup of butter or margerine 
 - 1/4 teaspoon of popcorn salt
 
-### Directions
-Best cooked in a [Whirley-pop] (https://www.whirleypopshop.com/) popcorn popper. This requires only 1 teaspoon of oil.  Cook over medium high heat until kernels stop popping
+### Directions {-}
+Best cooked in a [Whirley-pop](https://www.whirleypopshop.com/) popcorn popper. This requires only 1 teaspoon of oil.  Cook over medium high heat until kernels stop popping
 or until smoke fills the kitchen. Place in a large bowel and sprinkle melted butter lightly over popcorn while stirring. Olive oil can be substituted for margarine. Sprinkle salt over popcorn and stir. Eat while warm and while watching a good movie with the family gathered around you. 
 
