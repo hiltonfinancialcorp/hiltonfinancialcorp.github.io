@@ -14,4 +14,4 @@ description: "Recipes from the Spencer Family"
 
 # Introduction
 
-This is the Spencer Family Cookbook!
+This is the Spencer Family & Friends Cookbook!
