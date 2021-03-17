@@ -1,3 +1,27 @@
+# NOTES  {-}
+
+## What’s the Difference Between Chop, Dice, and Mince? {-}
+
+### I don't know but try these comments {-}
+Sometimes the words chop and dice are used interchangeably, but technically the word dice is used for smaller pieces and the word chop is used for larger pieces.
+You seldom see the term large dice, but you will see large chop and small dice rather frequently. Dice can also refer to cutting vegetable into cubes of a specific size while chop is less precise. In general, chop is more casual and has more leeway while dice is more specific.
+The word mince means a very small dice.
+
+### How Big is a Dice? How Small is a Mince? {-}
+How do you know how big or small something is supposed to be? If the recipe writer feels it matters, 
+usually they will also include a measurement, like 3/4″ dice. 
+Again, we see the word dice here to indicate that this is a very specific direction. 
+But if the sizing has some leeway, they will say either large, medium or small chop. Unfortunately, 
+these sizes aren’t standardized so it’s hard to give measurements.
+
+- Large chop – For me, when a recipe says large chop, I usually make it roughly the size of a nickel.
+- 
+- Medium Chop – Medium chop is about half the size of a nickel.
+- 
+- Diced (Small Chop) – Small chop is about half of medium chop, perhaps a quarter inch to a side.
+- 
+- Minced – Mince is very fine, as small as I can get it.
+
 # Appetizers and Beverages {#appetizers}
 
 ## ARTICHOKE DIP {-}
@@ -221,3 +245,12 @@ hold together with a toothpick.
 
 ---
 
+## `WARM CREAMY BACON DIP {-}
+
+### Chef: Debbie Wescott {-}
+
+### Ingredients {-}
+- 1 16 oz sour cream
+- 1 3 oz bacon bits (or make your own)
+- 2 cups grated cheddar or cheddar jack cheese
+- 1 cup chopped green onions
