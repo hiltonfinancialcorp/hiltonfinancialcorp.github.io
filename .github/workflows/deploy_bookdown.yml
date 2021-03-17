@@ -14,7 +14,9 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install pdflatex
-        run: brew install basictex
+        run: |
+          brew install basictex
+          eval "$(/usr/libexec/path_helper)"
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
       - name: Render Book
