@@ -1,6 +1,6 @@
 # NOTES {-}
 
-## What’s the Difference Between Chop, Dice, and Mince? {#notes}
+## What’s the Difference Between Chop, Dice, and Mince? {- #notes}
 
 ### I don't know but try these comments {-}
 Sometimes the words chop and dice are used interchangeably, but technically the word dice is used for smaller pieces and the word chop is used for larger pieces.
