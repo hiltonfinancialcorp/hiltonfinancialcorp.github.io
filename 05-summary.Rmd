@@ -1,3 +1,7 @@
 # Final Words
 
-We have finished a nice book.
+We have finished a nice book. What do you think?
+
+```{r out.width='30%', out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("images/500.jfif")
+```
