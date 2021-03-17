@@ -3,5 +3,5 @@
 We have finished a nice book. What do you think?
 
 ```{r}
-knitr::include_graphics("images/500.jfif")
+knitr::include_graphics("images/500.jpg")
 ```
