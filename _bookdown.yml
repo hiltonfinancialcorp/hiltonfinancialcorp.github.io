@@ -1,5 +1,5 @@
 book_filename: "spencerfamilycookbook"
-download: null
+download: ["pdf", "epub"]
 language:
   ui:
     chapter_name: ""
