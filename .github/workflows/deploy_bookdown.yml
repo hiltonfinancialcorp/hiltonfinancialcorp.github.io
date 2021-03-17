@@ -18,7 +18,7 @@ jobs:
           Rscript -e 'install.packages(c("tinytex"))'
           Rscript -e 'tinytex::install_tinytex()'
       - name: Install rmarkdown
-        run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))
+        run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
       - name: Render Book
         run: |
           Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
