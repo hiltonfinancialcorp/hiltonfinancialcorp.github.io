@@ -2,6 +2,6 @@
 
 We have finished a nice book. What do you think?
 
-```{r}
+```{r, echo = FALSE}
 knitr::include_graphics("images/500.jpg")
 ```
