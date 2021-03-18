@@ -3,7 +3,13 @@ title: "Spencer Family Cookbook"
 author: "The Spencers"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output: 
+  bookdown::gitbook: default
+  bookdown::pdf_book:
+    keep_tex: yes
+    latex_engine: xelatex
+    toc_unnumbered: no
+    toc_appendix: yes
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
