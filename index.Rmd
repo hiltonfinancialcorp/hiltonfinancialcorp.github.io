@@ -41,14 +41,9 @@ plot(mpg ~ hp, data = mtcars)
 
 Morbi mattis libero sed est. Vivamus vehicula leo a justo. Quisque nec augue. Morbi mauris wisi, aliquet vitae, dignissim eget, sollicitudin molestie, ligula. In dictum enim sit amet risus. Curabitur vitae velit eu diam rhoncus hendrerit. Vivamus ut elit. Praesent mattis ipsum quis turpis. Curabitur rhoncus neque eu dui. Etiam vitae magna. Nam ullamcorper. Praesent interdum bibendum magna. Quisque auctor aliquam dolor. Morbi eu lorem et est porttitor fermentum. Nunc egestas arcu at tortor varius viverra. Fusce eu nulla ut nulla interdum consectetuer. Vestibulum gravida. Morbi mattis libero sed est.
 
-```{r echo = FALSE}
-url <- "https://cdn.pixabay.com/photo/2017/11/15/20/27/diamonds-2952447_960_720.png"
-curl::curl_download(url, "image.png")
-``` 
-
 \begin{wrapfigure}{R}{.25\textwidth}  
  \begin{center}
-    \includegraphics[width=.2\textwidth]{image.png}  
+    \includegraphics[width=.2\textwidth]{"images/500.jpg"}
   \caption{Diamonds} 
 \end{center}
 \end{wrapfigure}
