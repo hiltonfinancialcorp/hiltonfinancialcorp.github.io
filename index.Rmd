@@ -10,6 +10,8 @@ biblio-style: apalike
 link-citations: yes
 github-repo: spencerfamilycookbook/spencerfamilycookbook.github.io
 description: "Recipes from the Spencer Family"
+header-includes:
+  - \usepackage{wrapfig}
 ---
 
 # Introduction
