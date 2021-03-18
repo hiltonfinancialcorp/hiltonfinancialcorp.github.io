@@ -1,7 +1,7 @@
 introduction
 notes
 appetizers
-soups-and-salads-soup
+soup
 literature
 methods
 applications
