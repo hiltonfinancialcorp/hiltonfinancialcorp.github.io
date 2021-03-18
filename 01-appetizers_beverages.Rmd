@@ -225,7 +225,7 @@ Alter amount of ice to change consistency of the drink.
 
 ---
 
-## TORTILLLA APPETIZER {-}
+## TORTILLLA  APPETIZER {-}
 
 ### Chef: Patricia Blair {-}
 
@@ -263,7 +263,7 @@ Great served in a bread bowl. Easy to double recipe!
 
 ---
 
-## wEDDING PUNCH {-}
+## WEDDING PUNCH {-}
 
 ### Chef: Patricia Blair {-}
 
@@ -287,7 +287,7 @@ Mix all the ingredients EXCEPT the 7-up. Freeze in freezer bags.
 ### Chef: Patricia Blair {-}
 
 ### Ingredients {-}
-- 2  16oz cans black beans - undrained
+- 2 16oz cans black beans - undrained
 - 1 cup reduced sodium chicken broth
 - 1 small onion - chopped
 - 1 teaspoon garlic - minced
