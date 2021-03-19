@@ -1,5 +1,5 @@
 --- 
-title: "Spencer Family Cookbook"
+title: "Roberta Spencer Family & Friends COOKBOOK"
 author: "The Spencers"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -22,7 +22,17 @@ header-includes:
 
 # Introduction
 
-This is the Spencer Family & Friends Cookbook!
+This is the Spencer Family & Friends Cookbook
+
+dedicated to our mother Roberta Belle Spencer who taught us the joy of:
+
+Cooking
+
+Sharing
+
+Eating
+
+Left-overs
 
 
 ```{r, include = F}
