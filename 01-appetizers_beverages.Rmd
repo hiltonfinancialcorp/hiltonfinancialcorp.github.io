@@ -280,7 +280,7 @@ Mix all the ingredients EXCEPT the 7-up. Freeze in freezer bags.
 
 -- To serve --  soften slightly, put in punch bowl, add the bottle of 7-up.
 
-# Soups and Salads {#soup}{#salad}
+# Soups and Salads {#soup #salad}
 
 ## BLACK BEAN SOUP {-}
 
@@ -320,8 +320,10 @@ Bring to boil. Reduce heat to low and cover. Cook, stirring occasionally for 25 
 - 2 tablespoons white vinegar
 
 ### Directions {-}
-Cut broccoli into bite size pieces, Chop onion, Cook Bacon and crumble. Combine Broccoli, onion, bacon, and raisons in bowel. 
-In separate bowl, mix mayonnaise, sugar, and vinegar. Toss with salad. Marinate in refrigerator for one hour. 
+Cut broccoli into bite size pieces, Chop onion, Cook Bacon and crumble. 
+Combine Broccoli, onion, bacon, and raisons in bowel. 
+In separate bowl, mix mayonnaise, sugar, and vinegar. Toss with salad. 
+Marinate in refrigerator for one hour. 
 Mix in sunflower seeds before serving.
 
 ## BROCOLI, CHEESE AND POTATO SOUP {-}
@@ -329,7 +331,7 @@ Mix in sunflower seeds before serving.
 ### Chef: Roberta Spencer {-}
 
 ### Ingredients {-}
-- 4 medium potatoes - eeled and diced
+- 4 medium potatoes - peeled and diced
 - 4 carrots - peeled and sliced
 - 1 stalk celery - diced
 - 6 chicken bouillon cubes
@@ -352,8 +354,32 @@ Add desired amount of cheese. If too thick add more milk.
 
 ## BUTTERMILK RANCH DRESSING WITH BIBB LETTUCE {-}
 
-### Chef: Jennifer Gustin - Barefoot Contessa {-}
+### Chef: Jennifer Gustin - by Barefoot Contessa {-}
 
 ### Ingredients {-}
 - 3 scallions white and green parts - chopped
 - 1/2 cup fresh basil leaves - lightly packed, chopped
+- 2 tablespoons lemon juice - freshly squeezed
+- 1 1/2 Tablespoons dijon mustard
+- 1 tablespoon good olive oil
+- 2 garlic cloves - chopped
+- 2 1/2 teaspoons salt
+- 1 teaspoon black pepper
+- 1 cup good mayonnaise
+- 1/2 cup Greek style yogurt
+- 1/2 cup buttermilk - shaken
+
+### Directions {-}
+Place the scallions, basil, lemon juice, mustard, olive oil, garlic, salt,
+And pepper in the bowl of a food processor fitted with the steel blade.
+ Puree for 15 to 20 seconds to make a smooth mixture. Add the mayonnaise, 
+Yogurt, and buttermilk and blend until smooth. Transfer the dressing to a 
+container, cover, and refrigerate for 1 hour for the flavors to develop. 
+Arrange the lettuce, tomatoes and onion artfully on salad plates and drizzle 
+With the dressing. Sprinkle with salt and pepper and serve.
+
+## FRITO CORN CHIP SALAD {-}
+
+### Chef: Jennifer Gustin {-}
+
+### Ingredients {-}
