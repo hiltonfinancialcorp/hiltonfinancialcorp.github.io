@@ -775,7 +775,8 @@ is absorbed, 18 – 20 minutes. Add salt and pepper to taste.
 - 1/2 cup grated cheddar cheese, for topping - optional
 
 ### Directions {-}
-Preheat oven to 400 degrees. Wash, core, and sherd the cabbage. 
+Preheat oven to 400 degrees. Wash, core, and sherd the cabbage. In a saucepan
+cook until tender then drain.
 In a large bowl, combine the cabbage with the rest of the ingredients 
 except the cheddar cheese. Pour mixture into a buttered 3 quart casserole 
 or baking dish. Bake for about 15 minutes. Add the cheese topping, 
@@ -788,12 +789,47 @@ if desired, and return to oven for another 5 to 7 minutes. Makes 6 to 8 servings
 ### Chef: Roberta Spencer {-}
 
 ### Ingredients {-}
+- 1/4 cup dried apricots - chopped
+- 1 bell pepper - chopped
+- 1 bunch green onions - chopped
 - 1 cup quinoa
+- 1/2 cup pine nuts
+- 1 teaspoon salt
+- 1 tablespoon fresh lemon juice
+- 1 teaspoon groound cumin
+- 1/2 teaspoon ground corriander
+- 2 tablespoons olive oil
+- 
+### Directions {-}
+Bring 2 cups water to a boil in medium saucepan. Stir in quinoa, 
+Cover, and simmer 10 minutes. Turn off heat, and let quinoa remain 
+Covered 10 minutes more to absorb water. Transfer quinoa to bowl 
+And fluff every few minutes until grain cools. Toast pine nuts in dry skillet 
+Over medium heat, stirring until nuts are golden brown (3 minutes). 
+Add pine nuts, salt, lemon juice, cumin, coriander, oil, apricots,
+Green onions, and bell pepper to quinoa, and toss until coated.
+Serve warm or chill and serve cold.
+
+---
+
+## RATATOUILLE {-}
+
+### Chef: Roberta Spencer {-}
+
+### Ingredients {-}
+- 1 red onion
+- 1 zucchini
+- 1 yellow squash
+- 1 bell pepper
+- 10 button mushrooms
+- 1 tablespoons garlic
+- Parsley - chopped
+- extra-virgin olive oil
+- salt and pepper to taste
 
 ### Directions {-}
 
 ---
-
 ## NAME {-}
 
 ### Chef: Who {-}
