@@ -1,10 +1,6 @@
 fig:unnamed-chunk-2
 introduction
-acknowledgements-disclaimers
 acknowledgments
-disclaimer
-cook-and-enjoy
-notes
 appetizers
 salad
 Sides
