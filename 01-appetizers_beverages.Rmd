@@ -1,19 +1,19 @@
-# ACKNOWLEDGEMENTS / DISCLAIMERS
+# ACKNOWLEDGEMENTS / DISCLAIMERS {-}
 
 ## Acknowledgments
 Thanks to all that have participated providing recopies for this book. Recopies have been 
 contributed by family and friends and by many that might not know that we sneaked their recipes, 
 but good food is worth copying.
 
-### Disclaimer
+## Disclaimer {-}
 If there is something you didn’t like, you must have made it wrong because we do not make mistakes and 
 we certainly have great taste. Remember, follow the intent of the recipe, not the “letter of the law 
 (or recipe)”.Typing was done by Alvin Spencer who has no ability to spell, count, type or duplicate. 
 All complaints must be directed to his Trash Bin within 30 days from the date the recipe was typed.
 
-#### COOK and ENJOY
+## COOK and ENJOY {-}
 
-# NOTES {#notes}
+# NOTES {#notes} {-}
 
 ## What’s the Difference Between Chop, Dice, and Mince? {- #notes}
 
@@ -49,7 +49,7 @@ these sizes aren’t standardized so it’s hard to give measurements.
 ### Ingredients {-}
 - 2   8oz packages of cream cheese - softened
 - 1/2 cup mayonnaise
-- 3 to 5 cloves of garlic (or 3 tablespoons of Minced garlic)
+- 3 to 5 cloves of garlic - or 3 tablespoons of Minced garlic
 - 14 oz can artichoke hearts drained and chopped - marinated
 - 10 oz package of frozen spinach - softened
 - 2 tablespoons of lemon juice
@@ -195,10 +195,10 @@ Store in freezer. To serve, use 1 1/2  tsp of batter to a cup of hot water or mi
 ### Chef: Roberta Spencer {-}
 
 ### Ingredients {-}
-- 1   25.6 oz package of instant nonfat dry milk (10 2/3 cups)
-- 1   6 oz jar powdered non-dairy creamer
-- 2  cups powdered sugar
-- 1   16 oz can instant chocolate drink mix
+- 1 25.6 oz package of instant nonfat dry milk (10 2/3 cups)
+- 1 6 oz jar powdered non-dairy creamer
+- 2 cups powdered sugar
+- 1 16 oz can instant chocolate drink mix
 
 ### Directions {-}
 Combine all ingredients, Mix well. Put in a large air tight container. 
