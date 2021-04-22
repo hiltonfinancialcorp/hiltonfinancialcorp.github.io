@@ -1,6 +1,7 @@
 # ACKNOWLEDGEMENTS / DISCLAIMERS {-}
 
 ---
+---
 
 ## Acknowledgments {-}
 Thank you to all that have participated providing recipes for this book. Recipes have been 
@@ -51,6 +52,7 @@ these sizes aren’t standardized so it’s hard to give measurements.
 # Appetizers and Beverages {#appetizers}
 
 ---
+---
 
 ## ARTICHOKE DIP {-}
 
@@ -96,7 +98,8 @@ YUM!
 - 2 avacados - diced
 
 ### Directions {-}
-Except the tomatoes and avacados marinate all other ingredients together for 6+ hours. Add diced tomatoes and avacados 30 minutes before serving.
+Except the tomatoes and avacados marinate all other ingredients together for 6+ hours. 
+Add diced tomatoes and avacados 30 minutes before serving.
 
 ---
 
@@ -312,6 +315,7 @@ Mix all the ingredients EXCEPT the 7-up. Freeze in freezer bags.
 
 # Soups and Salads {#soup #salad}
 
+---
 ---
 
 ## BLACK BEAN SOUP {-}
@@ -630,6 +634,7 @@ Heat through and serve.
 # Vegetables & Side  Dishes {#Sides}
 
 ---
+---
 
 ## SEA SALT SWEEET POTATOES {-}
 
@@ -926,6 +931,7 @@ Let cool a minute and cut into squares and serve. 12 servings
 # Main  Dishes {#Main}
 
 ---
+---
 
 ## CREAMY SWISS CHICKEN BAKE {-}
 
@@ -1094,6 +1100,70 @@ rice and serve warm.
 - 1 cup mozzarella cheese
 
 ### Directions {-}
+Sauté ground beef until lightly browned. Stir in tomatoes, seasonings, rice, and cabbage. 
+Cover and cook 10 - 15 minutes or until cabbage is tender crisp. Stir in sour cream, onions, 
+and gree peppers. Heat through. Spoon into 3 quart casserole dish and sprinkle with cheese. 
+Bake in oven at 350 degrees until cheese is melted
+
+---
+
+## CAFÉ RIO {-}
+
+### Chef: Debbie Wescott {-}
+
+### THE PORK {-}
+- 1 pound pork tenterloin - up to 4-5 lbs
+- 2 15 oz cans tomato sauce
+- 1 1/2 cups brown sugar
+- 1 can Coca-Cola
+- 1 garlic clove - minced
+- 1 /4 cilanro - diced
+
+Place all ingredients in crock pot on medium for at least 4 hours. 
+Shred cooked pork and put back in sauce. 
+Drain excess sauce to desired consistency.
+
+### THE CREAMY DRESSING {-}
+- 1 packet Hidden Valley Ranch mix
+- 8 oz salsa verde green salsa - LaVictoria brand
+- 1/2 bunch cilantro with stems - diced
+- 2 cloves garlic - minced
+- 3/4 cup mayonnaise
+- 3/4 cup sour cream
+- 1/8 teaspoon hot sauce
+
+Mix in blender, If needed, thin with buttermikl.
+
+### THE RICE {-}
+- 4 cups rice - uncooked
+- 8 cups water
+- 8 cubes chicken bouillon - or 8 teaspoons
+- 2 teaspoons cumin
+- 4 cloves garlic -minced
+- 12 tablespoons butter - use 1/2 for healthier version
+- 13 sprigs cilantro - chopped
+
+Bring water with bouillon, cumin, and butter to boil. Add garlic, cilantro, 
+and rice. Cook for about 20 minutes or until all water is absorbed. 
+(I usually half the rice if I’m just cooking 1 pond of pork)
+-
+
+Great served with warm tortillas. Add beans if you wish.
+
+---
+
+Great served with warm tortillas. Add beans if you wish.
+
+---
+
+## CHEESE MANICOTTE {-}
+
+### Chef: Lori Hilton {-}
+
+### Ingredients {-}
+- 
+
+### Directions {-}
 
 ---
 
@@ -1102,7 +1172,7 @@ rice and serve warm.
 ### Chef: Who {-}
 
 ### Ingredients {-}
-
+- 
 
 ### Directions {-}
 
