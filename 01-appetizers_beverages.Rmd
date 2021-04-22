@@ -1145,7 +1145,7 @@ Mix in blender. If needed, thin with buttermilk.
 
 Bring water with bouillon, cumin, and butter to boil. Add garlic, cilantro, 
 and rice. Cook for about 20 minutes or until all water is absorbed. 
-(I usually half the rice if I’m just cooking 1 pond of pork)
+(I usually half the rice if I’m just cooking 1 pound of pork)
 
 ---
 
@@ -1158,6 +1158,18 @@ Great served with warm tortillas. Add beans if you wish.
 ### Chef: Lori Hilton {-}
 
 ### Ingredients {-}
+### THE SAUCE {-}
+- 1 large onion - choppe
+- 1 garlic clove - minced
+- 2 tablespoons olive oil
+- q2 ounces tomato paste
+- 24 ounces water
+- 2 tablespoons oregano - fresh
+- 1 bay leaf
+- 1 teaspoon salt
+- 1/2 teaspoon pepper
+
+### THE FILLING {-}
 - 
 
 ### Directions {-}
