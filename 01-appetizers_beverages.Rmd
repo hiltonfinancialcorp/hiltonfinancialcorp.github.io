@@ -1,7 +1,9 @@
 # ACKNOWLEDGEMENTS / DISCLAIMERS {-}
 
+---
+
 ## Acknowledgments {-}
-Thanks to all that have participated providing recipes for this book. Recopies have been 
+Thank you to all that have participated providing recipes for this book. Recipes have been 
 contributed by family and friends and by many that might not know that we sneaked their recipes, 
 but good food is worth copying.
 
@@ -13,7 +15,11 @@ All complaints must be directed to his email Trash Bin within 30 days from the d
 
 ## COOK and ENJOY {-}
 
+---
+
 # NOTES {#notes} {-}
+
+---
 
 ## What’s the Difference Between Chop, Dice, and Mince? {- #notes}
 
@@ -40,7 +46,11 @@ these sizes aren’t standardized so it’s hard to give measurements.
 - 
 - Minced – Mince is very fine, as small as I can get it.
 
+---
+
 # Appetizers and Beverages {#appetizers}
+
+---
 
 ## ARTICHOKE DIP {-}
 
@@ -301,6 +311,8 @@ Mix all the ingredients EXCEPT the 7-up. Freeze in freezer bags.
 ---
 
 # Soups and Salads {#soup #salad}
+
+---
 
 ## BLACK BEAN SOUP {-}
 
@@ -617,6 +629,8 @@ Heat through and serve.
 
 # Vegetables & Side  Dishes {#Sides}
 
+---
+
 ## SEA SALT SWEEET POTATOES {-}
 
 ### Chef: Roberta Spencer {-}
@@ -911,6 +925,8 @@ Let cool a minute and cut into squares and serve. 12 servings
 
 # Main  Dishes {#Main}
 
+---
+
 ## CREAMY SWISS CHICKEN BAKE {-}
 
 ### Chef: Roberta Spencer {-}
@@ -1047,7 +1063,7 @@ tomatoes. Drain tomatoes and fold in at the end of cooking. Heat and serve.
 
 ### Directions {-}
 
----In small bowl combine soy sauce, brown sugar, garlic and pepper. 
+In small bowl combine soy sauce, brown sugar, garlic and pepper. 
 Set aside. Heat 1 tablespoon vegetable oil in large skillet over 
 medium high heat. Add beef, and stir-fry sauce, cook until almost 
 cooked through, about 2 minutes. Transfer beef to a plate and cover 
@@ -1057,12 +1073,25 @@ skillet with soy sauce mixture, add ginger. Bring to boil and cook,
 stirring constantly, until sauce thickens, about 2 minutes. Serve with, 
 rice and serve warm.
 
+---
+
 ## BOUNTY RICE {-}
 
 ### Chef: Patricia Blair {-}
 
 ### Ingredients {-}
-- 2 T
+- 1 pound ground beef
+- 1 can 14.5 oz diced tomato 
+- 1 tablespoon salt
+- 1/2 teaspoon oregano
+- 1/2 teaspoon basil leaves
+- 1/2 teaspoon garlic powder
+- 3 cups cooked rice
+- 4 cups shreded cabbage
+- 1/2 cup sour cream
+- 1 cup onion
+- 1 cup green bell pepper
+- 1 cup mozzarella cheese
 
 ### Directions {-}
 
@@ -1073,7 +1102,7 @@ rice and serve warm.
 ### Chef: Who {-}
 
 ### Ingredients {-}
-- 2 T
+
 
 ### Directions {-}
 
