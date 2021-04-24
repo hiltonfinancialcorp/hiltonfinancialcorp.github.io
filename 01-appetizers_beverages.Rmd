@@ -1246,7 +1246,7 @@ golden brown and knife inserted in center comes out clean. Let stand 10 minutes.
 
 ### Ingredients {-}
 
-### FOR FILLING:
+### FOR FILLING: {-}
 - 2 tablespoons olive oil
 - 1 pound chicken - cut in bite-size pieces
 - 1 tablespoon fajita spice
@@ -1256,10 +1256,10 @@ golden brown and knife inserted in center comes out clean. Let stand 10 minutes.
 - 1 tablespoon cilantro - chopped
 - 1 teaspoon cumin
 
-HHeat oil in the pan over medium heat and add chicken and fajita spice. Cook for 5 minutes, and then 
+Heat oil in the pan over medium heat and add chicken and fajita spice. Cook for 5 minutes, and then 
 add the rest of the filling ingredients. Simmer until chicken pieces are fully cooked.
 
-### FOR LETTUCE WRAPS:
+### FOR LETTUCE WRAPS: {-}
 - 8 iceburg lettuce leaves
 - 1 cup sliced cabbage
 - 2 avocados, sliced
