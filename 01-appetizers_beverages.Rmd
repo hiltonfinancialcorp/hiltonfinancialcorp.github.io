@@ -1424,8 +1424,8 @@ Serve while hot over basmati rice and naan bread (Indian flat bread).
 - 2 cups milk
 - 1 cup ham - diced
 - 1 cup sasuage - cooked
-- 6oz mozzarella cheese
-- 6oz cheddar cheese
+- 6oz mozzarella cheese - shredded
+- 6oz cheddar cheese - shredded
 - 8-10 eggs - remove shell
 - 1/4 cup onion - diced
 - salt and pepper to taste
@@ -1448,7 +1448,7 @@ Serve hot.
 - 2-3 celery stalks - sliced
 - 1 pound hamburger
 - 1 package Lipton onion soup mix
-- Salt and pepper to taste
+- salt and pepper to taste
 
 ### Directions {-}
 Cut up vegetables and mix together with onion soup mix. Form hamburger into 4 patties. 
@@ -1485,7 +1485,27 @@ Uncover and continue to bake for 10 minutes.
 
 ## GRITS, GREENS AND SAUSAGE {-}
 
-### Chef:Roberta Spencer {-}
+### Chef: Roberta Spencer {-}
+
+### Ingredients {-}
+- 1 link (about 3oz) andouille sausage or other spicy cooked sausage - sliced
+- 2 medium chile peppers (mild or hot) or half a bell pepper - chopped
+- 4 ounces (about 4 cups) collard greens - chopped
+- 1/2 cup low-fat (1%) milk
+- 1/8 teaspoon salt
+- 1/2 cup quick-cooking grits
+- 1/2 tablespoon unsalted butter
+- 1/2 teaspoon olive oil
+- crushed red-pepper flakes to taste
+
+### Directions {-}
+
+
+---
+
+## HANBURGER FRY-PAN SUPPER {-}
+
+### Chef: Roberta Spencer {-}
 
 ### Ingredients {-}
 - 
@@ -1497,7 +1517,7 @@ Uncover and continue to bake for 10 minutes.
 
 ## MORE {-}
 
-### Chef:Roberta Spencer {-}
+### Chef: who {-}
 
 ### Ingredients {-}
 - 
