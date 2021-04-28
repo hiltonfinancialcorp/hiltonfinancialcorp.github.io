@@ -1648,7 +1648,7 @@ cook and stir for 2 minutes or until thickened. Serve patties and gravy over noo
 ---
 
 ##  SALSA CON QUESO CHICKEN WITH ASPARAGUS {-}
-(easy cheesey chicken with asparagus)
+### (easy cheesey chicken with asparagus) {-}
 
 ### Chef: Cody Gustin {-}
 
