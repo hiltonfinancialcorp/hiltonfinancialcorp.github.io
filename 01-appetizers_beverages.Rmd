@@ -1005,7 +1005,7 @@ on low until rice and chicken are done. You can add extra liquid if it needs mor
 
 ---
 
-## BACKED CHICKEN NUGGETS {-}
+## BAKED CHICKEN NUGGETS {-}
 
 ### Chef: Patricia Blair {-}
 
@@ -1929,9 +1929,12 @@ salt, basil, oregano, black pepper, and hot pepper sauce.
 ---
 
 # Breads and Rolls {#Breads}
+
+---
 ---
 
 ##  CINNAMON ROLLS {-}
+
 ### Can Ue Used For Rolls or Doughnuts {-}
 
 ### Chef: Rosetta Spencer {-}
@@ -1961,6 +1964,35 @@ Let the rolls rise.  Bake in about 325° oven until brown, about 20 minutes.  Fr
 ##  CRUMPETS-GLUTEN FREE {-}
 
 ### or Pancakes, ETC {-}
+
+### Chef: Roberta Spencer {-}
+
+### Ingredients {-}
+- 1 1/2 cups gluten free flour mix
+- 1 1/2 teaspooons baking powder
+- 1 teaspoon xanthan gum
+- 1/2 teaspoon gum
+- 1 1/2 tablespoons sugar - divided
+- 1 cup lukewarm water
+- 1 tablespoon dry yeast granules
+- 1 egg - room temperature
+- 1 teaspoon dough enhancer - or 1/2 teaspoon vinegar
+- 3 tablespoons margarine or butter - melted
+
+### Directions {-}
+Mix together the flour, baking powder, xanthan gum, salt, and egg replacer ( if used ).  Set aside.  
+Add 1 teaspoon or the sugar to the water and stir in the yeast.  Set aside.  Grease 6 English muffin 
+rings and place them on a greased baking sheet.  I use small Corning ware dishes for these.  
+In a mixing bowl, blend together, using a mixer at low speed, the remaining sugar, egg, margarine, 
+dough enhancer, and yeast water.  Beat in half the flour mixture.  With a spoon, stir in the remaining flour 
+and beat until smooth.  Pour batter into the prepared rings or dishes.  Cover and let rise in a warm place 
+until the batter doubles, 40 – 45 minutes for regular yeast; 20 – 25 minutes for rapid rise.  
+Preheat oven to 375 degrees.  Bake for 18 to 20 minutes until browned lightly and pulled slightly away from the rings.  
+Makes 6 crumpets. Thin mixture for delicious pancakes.
+
+---
+
+##  DROP SCONES-GLUTEN FREE {-}
 
 ### Chef: Roberta Spencer {-}
 
