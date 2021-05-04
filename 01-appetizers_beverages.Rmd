@@ -51,6 +51,7 @@ these sizes aren’t standardized so it’s hard to give measurements.
 # Appetizers and Beverages {#appetizers}
 
 ---
+
 ---
 
 ## ARTICHOKE DIP {-}
@@ -315,6 +316,7 @@ Mix all the ingredients EXCEPT the 7-up. Freeze in freezer bags.
 # Soups and Salads {#soup #salad}
 
 ---
+
 ---
 
 ## BLACK BEAN SOUP {-}
@@ -633,6 +635,7 @@ Heat through and serve.
 # Vegetables & Side  Dishes {#Sides}
 
 ---
+
 ---
 
 ## SEA SALT SWEEET POTATOES {-}
@@ -930,6 +933,7 @@ Let cool a minute and cut into squares and serve. 12 servings
 # Main  Dishes {#Main}
 
 ---
+
 ---
 
 ## CREAMY SWISS CHICKEN BAKE {-}
@@ -1659,6 +1663,7 @@ cook and stir for 2 minutes or until thickened. Serve patties and gravy over noo
 ---
 
 ##  SALSA CON QUESO CHICKEN WITH ASPARAGUS {-}
+
 ### (easy cheesey chicken with asparagus) {-}
 
 ### Chef: Cody Gustin {-}
@@ -1905,14 +1910,12 @@ Cover top with mozzarella and Parmesan cheese.  Bake at 375° until cheese is bu
 - 1/4 teaspoon ground black pepper
 - 1/8 teaspoon hot pepper sauce
 
-
 ### Directions {-}
 1)	Place the beef in a skillet over medium heat, and cook until evenly brown.  Drain grease.
 2)	Place the beef in a slow cooker, and mix in onion, celery, green bell pepper, garlic, 
 tomato puree kidney beans, and cannellini beans.  Season with chili powder, parsley, 
 salt, basil, oregano, black pepper, and hot pepper sauce.
 3)	Cover, and cook 8 hours on low.
-
 
 ---
 
@@ -2019,6 +2022,42 @@ I use about double the amount of milk to thin it enough for pancakes.
 
 ---
 
+##  FRUIT BRAN MUFFINS {-}
+
+### Chef: Jennifer Gustin {-}
+
+### Ingredients {-}
+- 
+
+### Directions {-}
+
+
+---
+
+##  NAVAJO FRYBREAD {-}
+
+### Chef: Susan Sharp {-}
+
+### Ingredients {-}
+- 
+
+### Directions {-}
+
+
+---
+
+##  SPICY CORN MUFFINS-GLUTEN FREE {-}
+
+### Chef: Roberta Spencer {-}
+
+### Ingredients {-}
+- 
+
+### Directions {-}
+
+
+---
+
 ##  MORE {-}
 
 ### Chef: who {-}
@@ -2031,3 +2070,8 @@ I use about double the amount of milk to thin it enough for pancakes.
 
 ---
 
+# Desserts {#Deserts}
+
+---
+
+---
