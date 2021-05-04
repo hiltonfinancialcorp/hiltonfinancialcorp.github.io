@@ -2026,10 +2026,22 @@ I use about double the amount of milk to thin it enough for pancakes.
 ### Chef: Jennifer Gustin {-}
 
 ### Ingredients {-}
-- 
+- 2 cups raisn bran
+- 1 egg
+- 1 (11oz) can mandarin oranges lightly chopped (save the juice)
+- 1 banana - mashed
+- 1/4 cup butter - melted
+- prune juice (see directions for amount)
+- 1 cup flour
+- 1/3 cup brown sugar
+- 1/2 tablespoon baking soda
+- 2 tablespoons baking powdeer
+- 1 tablespoon cinnamon
+- 1/2 cup raisins
+- 1/2 cup cup nuts (optional)
 
 ### Directions {-}
-
+In a medium bowl, mix Raisin Bran, egg, oranges, banana, and melted butter.  Add the prune juice to the mandarin oranges to make 1 cup.  Mix the 1 cup juice into the Raisin Bran mixture.  Let stand 5 minutes.  In a medium bowl, mix flour, brown sugar, baking soda, baking powder, cinnamon, raisins, and nuts together until combined.  Add the mixture to the Raisin Bran mix.  Pour mixture into lined cupcake molds and bake for 25 minutes at 375°.
 
 ---
 
@@ -2038,10 +2050,14 @@ I use about double the amount of milk to thin it enough for pancakes.
 ### Chef: Susan Sharp {-}
 
 ### Ingredients {-}
-- 
+- 4 cups flour
+- 1 tablespoon baking powder
+- 1 teaspoon salt
+- 2 tablespoons powdered milk
+- 1 1/2 cup water
 
 ### Directions {-}
-
+Put all dry ingredients in a large bowl.  Using your hands slowly mix in water.  Mix into a soft not sticky dough.  Preheat shortening in a fry pan 1/2 inch to 1 inch of oil.  Using your hands form a small amount of dough into a circle 6 to 8 inches in diameter or use a rolling pin.  Place in hot oil.  Turn when underside is golden brown.
 
 ---
 
@@ -2064,7 +2080,7 @@ I use about double the amount of milk to thin it enough for pancakes.
 - 1/2 cup green onions - finely sliced
 
 ### Directions {-}
-Heat oven to 425.  Spray 12 2 1/2” muffin cups with vegetable oil spray.  In a medium bowl, blend flour mix, xanthan gum, cornmeal, baking powder, Egg Replacer ( if used ), salt, baking soda, and cayenne pepper.  In a large bowl, beat the egg substitute slightly with a wire whisk.  Add the yogurt and oil and whisk.  With spoon, stir in the flour mix until just blended.  Stir in the green onions.  Spoon into prepared muffin cups.  Bake 15 minutes or until tester comes out clean.  Serve hot from the oven or cool to serve later.  Makes 12 2 1/2'” muffins.
+Heat oven to 425°.  Spray 12 2 1/2” muffin cups with vegetable oil spray.  In a medium bowl, blend flour mix, xanthan gum, cornmeal, baking powder, Egg Replacer (if used), salt, baking soda, and cayenne pepper.  In a large bowl, beat the egg substitute slightly with a wire whisk.  Add the yogurt and oil and whisk.  With spoon, stir in the flour mix until just blended.  Stir in the green onions.  Spoon into prepared muffin cups.  Bake 15 minutes or until tester comes out clean.  Serve hot from the oven or cool to serve later.  Makes 12 2 1/2'” muffins.
 
 ---
 
@@ -2083,5 +2099,29 @@ Heat oven to 425.  Spray 12 2 1/2” muffin cups with vegetable oil spray.  In a
 # Desserts {#Deserts}
 
 ---
+
+---
+
+##  BLUEBERRY CRISP {-}
+
+### Chef: Patricia Blair {-}
+
+### Ingredients {-}
+- 
+
+### Directions {-}
+
+
+---
+
+##  MORE {-}
+
+### Chef: who {-}
+
+### Ingredients {-}
+- 
+
+### Directions {-}
+
 
 ---
