@@ -4,7 +4,7 @@
 ---
 
 ## Acknowledgments {-}``
-Thank you to all that have participated providing recipes for this book. Recipes have been 
+Thank you to all that have participated providing recipes for this book. Recipes have been ``
 contributed by family and friends and by many that might not know that we sneaked their recipes, 
 but good food is worth copying.
 
@@ -2489,6 +2489,18 @@ Mix cake mix and pumpkin together until well blended. Add chocolate chips and th
 - 1 cup margarine
 - 1/2 cup [Karo corn syrup](https://en.wikipedia.org/wiki/Corn_syrup) - white/light
 - 1 teaspoon vanilla
+
+### Directions {-}
+
+
+---
+
+##  MAGIC COOKIE BARS {-}
+
+### Chef: Susan Sharp {-}
+
+### Ingredients {-}
+- 
 
 ### Directions {-}
 
