@@ -1,5 +1,6 @@
 fig:unnamed-chunk-2
 introduction
+acknowledgments--thank-you-to-all-that-have-participated-providing-recipes-for-this-book.-recipes-have-been
 appetizers
 salad
 Sides
@@ -7,6 +8,7 @@ Main
 real-style-large-batch
 Breads
 Deserts
+Cookies
 literature
 methods
 applications
