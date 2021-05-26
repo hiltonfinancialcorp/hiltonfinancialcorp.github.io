@@ -2452,7 +2452,7 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
 
 ##  GRANDMAS BEST CHOCOLATE CHIP COOKIES {-}
 
-### Chef: Roberta Spencer {-}
+### Chef: Roberta Spencer/allrecipes {-}
 
 ### Ingredients {-}
 - 1 cup butter - softened
@@ -2479,7 +2479,19 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
 ### Chef: Roberta Spencer {-}
 
 ### Ingredients {-}
-- 
+- 2 1/4 cups all-prpose flour - spoon & leveled
+- 1 1/2 teaspoons baking soda
+- 2 teaspoons grond ginger
+- 1 1/4 teaspoons cinnamon
+- 1/4 teaspoon grond cloves
+- 1/4 teaspoon nutmeg
+- 1/4 teaspoon salt
+- 3/4 cup unsalted butter - softened to room temperature
+- 1/2 cup packed brown sugar - light or dark
+- 1/4 cup granulated sugar
+- 1/4 cup unsulphured or dark molasses
+- 1 large egg - at room temperature
+- 2 teaspoons pure vanilla extract
 
 ### Directions {-}
 
