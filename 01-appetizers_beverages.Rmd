@@ -2494,7 +2494,13 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
 - 2 teaspoons pure vanilla extract
 
 ### Directions {-}
-
+1.	Whisk the flour, baking soda, ginger, cinnamon, cloves, nutmeg, and salt together until combined. Set aside.
+2.	In a large bowl using a hand-held or stand mixer fitted with a paddle attachment, beat the butter and both sugars together on high speed until creamy and combined, about 2 minutes. Add the molasses and beat until combined. Then add the egg and vanilla extract and beat (until it screams) or until combined, about 1 minute. Scrape down the sides and bottom of the bowl as needed.
+3.	On low speed, slowly mix the dry ingredients into the wet ingredients until combined. The cookie dough will be slightly sticky. Cover dough tightly with aluminum foil or plastic wrap and chill for 1 hour and up to 2-3 days.
+4.	Preheat oven to °. Line two large baking sheets with parchment paper or silicone baking mats. (Always recommended for cookies). Set aside.
+5.	Remove cookie dough from the refrigerator. If the cookie dough chilled longer than 2 hours, let it sit at room temperature for at least 30 minutes. The cookies may not spread in the oven if the dough it that cold. Roll cookie dough, 1 tablespoon each, into balls. Roll each in granulated sugar and arrange 3 inches apart on the baking sheets. Bake for 11-12 minutes or until edges appear set. If the tops aren’t appearing cracked, remove the baking sheet from the oven and gently bang it on the counter 2-3 times. This will help those warm cookies spread out and crack on top. Return to the oven for 1 additional minute.
+6.	Remove from the oven and allow cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.
+7.	Cookies will say fresh covered at room temperature for 1 week.
 
 ---
 
@@ -2752,10 +2758,20 @@ In a large bowl, cream together butter and sugar until smooth. Beat in eggs and 
 ### Chef: Patricia Blair {-}
 
 ### Ingredients {-}
-- 
+- 2 1/2 cups flour
+- 1 teaspoon baking soda
+- 1/4 teaspoon salt
+- 2 sticks unsalted butter - softened
+- 1 1/2 cups dark brown sugar
+- 2 eggs
+- 1 tablespoon light molasses 
+- 2 teaspoons vanill extract
+- 1 cup chopped pecans, toasted - optional
+- 3/4 cup butterscotch chips
+- 3/4 cup white chocolate chips                                      
 
 ### Directions {-}
-
+Heat oven to 300°. In a medium bowl, combine the flour, baking soda and salt. In a large bowl with an electric mixer, cream the butter and sugar. Add the eggs, molasses, and vanilla. Blend well. Add the flour mixture and mix to blend. Stir in the pecans, butterscotch chips and white chocolate chips. Do not overmix. Drop the cookie dough by rounded tablespoons 2” apart onto an ungreased cookie sheet. Bake for 1-20 minutes or until set. Transfer to wire racks to cool.
 
 ---
 
@@ -2812,6 +2828,62 @@ In a large bowl, cream together butter and sugar until smooth. Beat in eggs and 
 # This and That {#ThisThat}
 
 ---
+
+---
+
+##  GRAVY {-}
+
+### Chef: Roberta Spencer {-}
+
+### Ingredients {-}
+- 2 cups of broth with pan dripping - add water if less than 2 cups
+- 2 tablespoons cornstarch
+- Salt and pepper to taste
+
+### Directions {-}
+Pour broth and drippings into a saucepan and heat on low. Mix cornstarch with some cold water and add t drippings and broth stirring while adding. If it is not thick enough you may add more cornstarch mixed with water.
+
+---
+
+ ##  BBQ Rub {-}
+
+### Chef: Alvin Spencer {-}
+
+### Ingredients {-}
+- 4oz garlic powder
+- 4oz garlic salt
+- 4oz lemon pepper
+- 3 oz cayanne pepper
+- 8oz black pepper
+
+### Directions {-}
+Mix all ingredients together. Store in a shaker bottle. Spread generously on meat and cook, cook, cook!
+
+---
+
+##  CINNAMON APPLESAUCE ORNAMENTS {-}
+
+### Chef: Roberta Sepncer {-}
+
+### Ingredients {-}
+- 6 tablespoons warm applesauce (not chunky)
+- 10 tablespoons cinnamon
+
+### Directions {-}
+
+
+---
+
+##  DRIED APPLE WREATH {-}
+
+### Chef: Roberta Spencer {-}
+
+### Ingredients {-}
+- Apples
+- Lemon juice
+
+### Directions {-}
+
 
 ---
 
