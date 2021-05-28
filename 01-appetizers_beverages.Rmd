@@ -3,7 +3,7 @@
 ---
 ---
 
-## Acknowledgments {-}``
+## Acknowledgments {-}
 Thank you to all that have participated providing recipes for this book. Recipes have been ``
 contributed by family and friends and by many that might not know that we sneaked their recipes, 
 but good food is worth copying.
@@ -59,7 +59,7 @@ these sizes aren’t standardized so it’s hard to give measurements.
 ### Chef: Debbie Wescott {-}
 
 ### Ingredients {-}
-- 2   8oz packages of cream cheese - softened
+- 2 8oz packages of cream cheese - softened
 - 1/2 cup mayonnaise
 - 3 to 5 cloves of garlic - or 3 tablespoons of Minced garlic
 - 14 oz can artichoke hearts drained and chopped - marinated
