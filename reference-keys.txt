@@ -1,6 +1,5 @@
 fig:unnamed-chunk-2
 introduction
-section
 appetizers
 salad
 Sides
