@@ -14,28 +14,6 @@ If there is something you didn’t like, you must have made it wrong because we 
 
 ---
 
-# NOTES {- #notes} 
-
----
-
-## What’s the Difference Between Chop, Dice, and Mince? {-}
-
-### I don't know but try these comments {-}
-Sometimes the words chop and dice are used interchangeably, but technically the word dice is used for smaller pieces and the word chop is used for larger pieces. You seldom see the term large dice, but you will see large chop and small dice rather frequently. Dice can also refer to cutting vegetable into cubes of a specific size while chop is less precise. In general, chop is more casual and has more leeway while dice is more specific. The word mince means a very small dice.
-
-### How Big is a Dice? How Small is a Mince? {-}
-How do you know how big or small something is supposed to be? If the recipe writer feels it matters, usually they will also include a measurement, like 3/4" dice. Again, we see the word dice here to indicate that this is a very specific direction. But if the sizing has some leeway, they will say either large, medium or small chop. Unfortunately, these sizes aren’t standardized so it’s hard to give measurements.
-
-- Large chop – For me, when a recipe says large chop, I usually make it roughly the size of a nickel.
-- 
-- Medium Chop – Medium chop is about half the size of a nickel.
-- 
-- Diced (Small Chop) – Small chop is about half of medium chop, perhaps a quarter inch to a side.
-- 
-- Minced – Mince is very fine, as small as I can get it.
-
----
-
 # Appetizers and Beverages {#appetizers}
 
 ---
@@ -70,7 +48,7 @@ Cream the cream cheese, mayonnaise and garlic together and set aside. Mix remain
 - 15oz can [shoepeg corn](https://en.wikipedia.org/wiki/Shoepeg_corn) - drained
 - 2/3 cup cilantro - chopped
 - 2/3 cup green onion - chopped
-- 1/4 cup olive oil dressing
+- 1/4 cup olive oil
 - 1/4 cup red wine vinegar
 - 2 cloves garlic - minced
 - 3/4 teaspoon salt
@@ -90,7 +68,7 @@ Except the tomatoes and avacados marinate all other ingredients together for 6+ 
 
 ### Ingredients {-}
 - 1 package instant vanilla pudding (4.6 oz)
-- 1 container cream of coconut (found in alcohol mix section)
+- 1 container Cream of Coconut (found in alcohol mix section)
 - 16 oz whipped cream (Cool Whip)
 
 ### Directions {-}
@@ -127,7 +105,7 @@ Spread mixture on bread and layer with sliced cucumber and tomato. Cover and ref
 ### Ingredients {-}
 - 1/2 cup of popcorn - uncooked
 - 1 to 3 teaspoons of olive oil
-- 1/4 cup of butter or margerine 
+- 1/4 cup of butter or margarine 
 - 1/4 teaspoon of popcorn salt
 
 ### Directions {-}
@@ -149,10 +127,10 @@ Sprinkle salt over popcorn and stir. Eat while warm and while watching a good mo
 - 1 small can green chilies - diced
 - 1/2 pint sour cream
 - 1/4 jar favorite salsa
-- garlic / onion salt and pepper
 - 1/2 cup green onions - chopped
 - 1 can sliced black olives
 - 1 lb. favorite shredded cheese
+- garlic or onion salt, and pepper - to taste
 
 ### Directions {-}
 Layer in 9x13 pan. 
@@ -2940,6 +2918,30 @@ In a large saucepan, mix all ingredients together cooking on medium low heat. St
 
 ### Directions {-}
 
+
+---
+
+# NOTES {- #notes} 
+
+---
+
+---
+
+## What’s the Difference Between Chop, Dice, and Mince? {-}
+
+### I don't know but try these comments {-}
+Sometimes the words chop and dice are used interchangeably, but technically the word dice is used for smaller pieces and the word chop is used for larger pieces. You seldom see the term large dice, but you will see large chop and small dice rather frequently. Dice can also refer to cutting vegetable into cubes of a specific size while chop is less precise. In general, chop is more casual and has more leeway while dice is more specific. The word mince means a very small dice.
+
+### How Big is a Dice? How Small is a Mince? {-}
+How do you know how big or small something is supposed to be? If the recipe writer feels it matters, usually they will also include a measurement, like 3/4" dice. Again, we see the word dice here to indicate that this is a very specific direction. But if the sizing has some leeway, they will say either large, medium or small chop. Unfortunately, these sizes aren’t standardized so it’s hard to give measurements.
+
+- Large chop – For me, when a recipe says large chop, I usually make it roughly the size of a nickel.
+- 
+- Medium Chop – Medium chop is about half the size of a nickel.
+- 
+- Diced (Small Chop) – Small chop is about half of medium chop, perhaps a quarter inch to a side.
+- 
+- Minced – Mince is very fine, as small as I can get it.
 
 ---
 
