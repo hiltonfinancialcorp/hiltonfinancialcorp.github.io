@@ -14,7 +14,7 @@ If there is something you didn’t like, you must have made it wrong because we 
 
 ---
 
-# NOTES {#notes} {-}
+# NOTES {- #notes} 
 
 ---
 
