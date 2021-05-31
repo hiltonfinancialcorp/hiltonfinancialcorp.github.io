@@ -32,8 +32,10 @@ Eating with family and friends
 
 Sharing with others
 
-Having "Left-Overs" to enjoy a day without cooking
+Having "Left-Overs" to enjoy a meal without cooking
 
+---
+The original edition was published in 2011 as SPENCER FAMILY RECIPES
 
 ```{r, include = F}
 defOut <- knitr::knit_hooks$get("plot")  # save the default plot hook 
@@ -70,5 +72,5 @@ Morbi mattis libero sed est. Vivamus vehicula leo a justo. Quisque nec augue. Mo
 
 ---
 
-The original edition was published in 2011 as SPENCER FAMILY RECIPES
+
 
