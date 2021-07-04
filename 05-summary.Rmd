@@ -1,7 +1,0 @@
-# Final Words
-
-We have finished a nice book. What do you think?
-
-```{r, echo = FALSE}
-knitr::include_graphics("images/500.jpg")
-```
