@@ -4,10 +4,8 @@ bookdown::gitbook:
     toc:
       before: |
         <li><a href="./">Spencer Family Cookbook</a></li>
-      after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/spencerfamilycookbook/spencerfamilycookbook.github.io/edit/master/%s
-    download: ["pdf", "epub"]
+    download: null
 bookdown::pdf_book:
   keep_tex: yes
 bookdown::epub_book: default
