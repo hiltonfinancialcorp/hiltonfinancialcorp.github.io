@@ -11,8 +11,6 @@ output:
     toc_unnumbered: no
     toc_appendix: yes
 documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
 link-citations: yes
 github-repo: spencerfamilycookbook/spencerfamilycookbook.github.io
 description: "Recipes from the Spencer Family"
