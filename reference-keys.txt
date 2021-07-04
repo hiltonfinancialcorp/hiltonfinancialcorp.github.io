@@ -8,9 +8,3 @@ Breads
 Deserts
 Cookies
 ThisThat
-literature
-methods
-applications
-example-one
-example-two
-final-words
