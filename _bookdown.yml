@@ -4,5 +4,7 @@ delete_merged_file: true
 view: https://github.com/spencerfamilycookbook/spencerfamilycookbook.github.io/blob/master/%s
 edit: https://github.com/spencerfamilycookbook/spencerfamilycookbook.github.io/edit/master/%s
 language:
+  label:
+    fig: ""
   ui:
     chapter_name: ""
