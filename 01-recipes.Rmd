@@ -2573,7 +2573,7 @@ In a large saucepan, mix all ingredients together cooking on medium low heat. St
 
 ##  EXAMPLE RECIPE {-}
 
-```{r example-macarons, fig.cap='A pretty picture of tasty food.', echo = FALSE}
+```{r example-macarons, fig.cap='A pretty picture of tasty food, from [pixabay](https://pixabay.com/photos/macarons-raspberries-pastries-2548827/).', echo = FALSE}
 knitr::include_graphics(rep('images/macarons.jpg'))
 ```
 
