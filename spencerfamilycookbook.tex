@@ -41,6 +41,46 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
 \usepackage{longtable,booktabs}
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -1183,30 +1223,6 @@ Brown and drain sausage and set aside. In a large pot add water, broth, potatoes
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{more}{%
-\section*{MORE}\label{more}}
-
-
-\hypertarget{chef-who}{%
-\subsection*{Chef: Who}\label{chef-who}}
-
-
-\hypertarget{ingredients-25}{%
-\subsection*{Ingredients}\label{ingredients-25}}
-
-
-\begin{itemize}
-\tightlist
-\item
-  2 T
-\end{itemize}
-
-\hypertarget{directions-25}{%
-\subsection*{Directions}\label{directions-25}}
-
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \hypertarget{Sides}{%
 \chapter{Vegetables \& Side Dishes}\label{Sides}}
 
@@ -1222,8 +1238,8 @@ Brown and drain sausage and set aside. In a large pot add water, broth, potatoes
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-5}}
 
 
-\hypertarget{ingredients-26}{%
-\subsection*{Ingredients}\label{ingredients-26}}
+\hypertarget{ingredients-25}{%
+\subsection*{Ingredients}\label{ingredients-25}}
 
 
 \begin{itemize}
@@ -1242,8 +1258,8 @@ Brown and drain sausage and set aside. In a large pot add water, broth, potatoes
   1/4 cup pecan pieces - chopped coarse
 \end{itemize}
 
-\hypertarget{directions-26}{%
-\subsection*{Directions}\label{directions-26}}
+\hypertarget{directions-25}{%
+\subsection*{Directions}\label{directions-25}}
 
 
 Preheat oven to 425° and coat 9x13 baking pan with cooking spray. In a separate bowel, mix all ingredients together except pecans. Arrange mixture in backing pan. Bake for 25-30 minutes, stirring halfway through. Remove from oven sprinkle with pecans. Finish with a pinch of sea salt. Serves 4 to 6.
@@ -1258,8 +1274,8 @@ Preheat oven to 425° and coat 9x13 baking pan with cooking spray. In a separate
 \subsection*{Chef: Lori Hilton}\label{chef-lori-hilton-1}}
 
 
-\hypertarget{ingredients-27}{%
-\subsection*{Ingredients}\label{ingredients-27}}
+\hypertarget{ingredients-26}{%
+\subsection*{Ingredients}\label{ingredients-26}}
 
 
 \begin{itemize}
@@ -1282,8 +1298,8 @@ Preheat oven to 425° and coat 9x13 baking pan with cooking spray. In a separate
   1 cup sliced almonds
 \end{itemize}
 
-\hypertarget{directions-27}{%
-\subsection*{Directions}\label{directions-27}}
+\hypertarget{directions-26}{%
+\subsection*{Directions}\label{directions-26}}
 
 
 Preheat oven to 350°. Cook the broccoli until barely tender. Drain and place it in a buttered 1 1/2 quart casserole dish. In a medium saucepan, melt the margarine and saute the onion until clear. Stir in the salt and flour. Add the milk slowly, stirring continually. Turn heat to medium and cook until Sauce has thickened. Add the cheese and stir until cheese melts. Spoon the cheese Sauce overt the broccoli. Top with almonds. Bake for 30 minutes. Makes 3 or 4 servngs.
@@ -1298,8 +1314,8 @@ Preheat oven to 350°. Cook the broccoli until barely tender. Drain and place it
 \subsection*{Chef: Lori Hilton}\label{chef-lori-hilton-2}}
 
 
-\hypertarget{ingredients-28}{%
-\subsection*{Ingredients}\label{ingredients-28}}
+\hypertarget{ingredients-27}{%
+\subsection*{Ingredients}\label{ingredients-27}}
 
 
 \begin{itemize}
@@ -1320,8 +1336,8 @@ Preheat oven to 350°. Cook the broccoli until barely tender. Drain and place it
   1/4 teaspoon pepper
 \end{itemize}
 
-\hypertarget{directions-28}{%
-\subsection*{Directions}\label{directions-28}}
+\hypertarget{directions-27}{%
+\subsection*{Directions}\label{directions-27}}
 
 
 Place the cauliflower in a steamer basket, set over boiling water, cover and steam for 15 minutes. Transfer to a food processor, add the buttermilk and 1/4 cup of milk and puree until very smooth, about 2 minutes. Place potatoes in a saucepan, add cold salted water to cover by about 2 inches, bring to a boil, reduce heat, and simmer until tender, about 15 minutes Drain, return to the saucepan, and heat over medium heat for 1 to 2 minutes to dry, mash with a potato masher. Add the cauliflower puree, 1/4 cup milk, 1 tsp salt and 1/4 teaspoon pepper. Stir to blend and heat over medium low heat, adding more milk as needed for a creamy consistency. Stir in butter and scallions and serve.
@@ -1336,8 +1352,8 @@ Place the cauliflower in a steamer basket, set over boiling water, cover and ste
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-7}}
 
 
-\hypertarget{ingredients-29}{%
-\subsection*{Ingredients}\label{ingredients-29}}
+\hypertarget{ingredients-28}{%
+\subsection*{Ingredients}\label{ingredients-28}}
 
 
 \begin{itemize}
@@ -1354,8 +1370,8 @@ Place the cauliflower in a steamer basket, set over boiling water, cover and ste
   1 can green chilies - diced
 \end{itemize}
 
-\hypertarget{directions-29}{%
-\subsection*{Directions}\label{directions-29}}
+\hypertarget{directions-28}{%
+\subsection*{Directions}\label{directions-28}}
 
 
 Mix all ingredients in crock pot and simmer
@@ -1370,8 +1386,8 @@ Mix all ingredients in crock pot and simmer
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-8}}
 
 
-\hypertarget{ingredients-30}{%
-\subsection*{Ingredients}\label{ingredients-30}}
+\hypertarget{ingredients-29}{%
+\subsection*{Ingredients}\label{ingredients-29}}
 
 
 \begin{itemize}
@@ -1394,8 +1410,8 @@ Mix all ingredients in crock pot and simmer
   1/2 teaspoon pepper
 \end{itemize}
 
-\hypertarget{directions-30}{%
-\subsection*{Directions}\label{directions-30}}
+\hypertarget{directions-29}{%
+\subsection*{Directions}\label{directions-29}}
 
 
 Peel potatoes and cut in large chunks. Cover with water and boil until tender. Drain water. Mash well and set aside. Microwave onion and the 2 tablespoons butter for 2 minutes. Add minced garlic to butter and onion. Microwave for 1 minute, then add to potatoes. Stir in sour cream, the 1/4 cup butter, salt, and pepper. Spoon into large casserole dish. Cover with foil, Bake at 325 degrees for 30 minutes. Makes 8--10 servings.
@@ -1410,8 +1426,8 @@ Peel potatoes and cut in large chunks. Cover with water and boil until tender. D
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-6}}
 
 
-\hypertarget{ingredients-31}{%
-\subsection*{Ingredients}\label{ingredients-31}}
+\hypertarget{ingredients-30}{%
+\subsection*{Ingredients}\label{ingredients-30}}
 
 
 \begin{itemize}
@@ -1428,8 +1444,8 @@ Peel potatoes and cut in large chunks. Cover with water and boil until tender. D
   1 1/3 cups Frenches Original French Fried Onions
 \end{itemize}
 
-\hypertarget{directions-31}{%
-\subsection*{Directions}\label{directions-31}}
+\hypertarget{directions-30}{%
+\subsection*{Directions}\label{directions-30}}
 
 
 In a 1 1/4 quart casserole pan, mix all ingredients except 2/3 cups french fried onions. Bake for 30 minutes at 350° or until hot. Stir, top with 2/3 cups onions. Bake 5 minutes or until onions ae golden. Serves 6
@@ -1444,8 +1460,8 @@ In a 1 1/4 quart casserole pan, mix all ingredients except 2/3 cups french fried
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-7}}
 
 
-\hypertarget{ingredients-32}{%
-\subsection*{Ingredients}\label{ingredients-32}}
+\hypertarget{ingredients-31}{%
+\subsection*{Ingredients}\label{ingredients-31}}
 
 
 \begin{itemize}
@@ -1466,8 +1482,8 @@ In a 1 1/4 quart casserole pan, mix all ingredients except 2/3 cups french fried
   salt and peper to taste
 \end{itemize}
 
-\hypertarget{directions-32}{%
-\subsection*{Directions}\label{directions-32}}
+\hypertarget{directions-31}{%
+\subsection*{Directions}\label{directions-31}}
 
 
 In a 4 quart sauce pan, boil in salted water, beans and minced garlic until just tender, about 5 minutes, drain. Transfer to a bowel and toss with nuts, parsley, zest, oil. Salt and pepper to taste. Makes 8 servings.
@@ -1482,8 +1498,8 @@ In a 4 quart sauce pan, boil in salted water, beans and minced garlic until just
 \subsection*{Chef: Patricia Blair / Roberta Spencer}\label{chef-patricia-blair-roberta-spencer}}
 
 
-\hypertarget{ingredients-33}{%
-\subsection*{Ingredients}\label{ingredients-33}}
+\hypertarget{ingredients-32}{%
+\subsection*{Ingredients}\label{ingredients-32}}
 
 
 \begin{itemize}
@@ -1506,8 +1522,8 @@ In a 4 quart sauce pan, boil in salted water, beans and minced garlic until just
   salt and pepper to taste
 \end{itemize}
 
-\hypertarget{directions-33}{%
-\subsection*{Directions}\label{directions-33}}
+\hypertarget{directions-32}{%
+\subsection*{Directions}\label{directions-32}}
 
 
 In a large frying pan, melt butter, onion, celery and sauté, stirring occasionally, until onion is translucent. Blend together the rice, curry powder, and cayenne pepper. Add to the onion mixture and stir while cooking until rice is coated, about 2 minutes. Pour in the broth. When it boils, cover the pan and reduce heat to low. Simmer until rice is tender and the broth is absorbed, 18--20 minutes. Add salt and pepper to taste.
@@ -1522,8 +1538,8 @@ In a large frying pan, melt butter, onion, celery and sauté, stirring occasiona
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-8}}
 
 
-\hypertarget{ingredients-34}{%
-\subsection*{Ingredients}\label{ingredients-34}}
+\hypertarget{ingredients-33}{%
+\subsection*{Ingredients}\label{ingredients-33}}
 
 
 \begin{itemize}
@@ -1544,8 +1560,8 @@ In a large frying pan, melt butter, onion, celery and sauté, stirring occasiona
   1/2 cup grated cheddar cheese, for topping - optional
 \end{itemize}
 
-\hypertarget{directions-34}{%
-\subsection*{Directions}\label{directions-34}}
+\hypertarget{directions-33}{%
+\subsection*{Directions}\label{directions-33}}
 
 
 Preheat oven to 400°. Wash, core, and sherd the cabbage. In a saucepancook until tender then drain.In a large bowl, combine the cabbage with the rest of the ingredients except the cheddar cheese. Pour mixture into a buttered 3 quart casseroleor baking dish. Bake for about 15 minutes. Add the cheese topping, if desired, and return to oven for another 5 to 7 minutes. Makes 6 to 8 servings.
@@ -1560,8 +1576,8 @@ Preheat oven to 400°. Wash, core, and sherd the cabbage. In a saucepancook unti
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-9}}
 
 
-\hypertarget{ingredients-35}{%
-\subsection*{Ingredients}\label{ingredients-35}}
+\hypertarget{ingredients-34}{%
+\subsection*{Ingredients}\label{ingredients-34}}
 
 
 \begin{itemize}
@@ -1586,8 +1602,8 @@ Preheat oven to 400°. Wash, core, and sherd the cabbage. In a saucepancook unti
 \item
   2 tablespoons olive oil
 \item ~
-  \hypertarget{directions-35}{%
-  \subsection*{Directions}\label{directions-35}}
+  \hypertarget{directions-34}{%
+  \subsection*{Directions}\label{directions-34}}
   \addcontentsline{toc}{subsection}{Directions}
 
   Bring 2 cups water to a boil in medium saucepan. Stir in quinoa, Cover, and simmer 10 minutes. Turn off heat, and let quinoa remain Covered 10 minutes more to absorb water. Transfer quinoa to bowl And fluff every few minutes until grain cools. Toast pine nuts in dry skillet Over medium heat, stirring until nuts are golden brown (3 minutes). Add pine nuts, salt, lemon juice, cumin, coriander, oil, apricots,Green onions, and bell pepper to quinoa, and toss until coatedServe warm or chill and serve cold.
@@ -1603,8 +1619,8 @@ Preheat oven to 400°. Wash, core, and sherd the cabbage. In a saucepancook unti
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-10}}
 
 
-\hypertarget{ingredients-36}{%
-\subsection*{Ingredients}\label{ingredients-36}}
+\hypertarget{ingredients-35}{%
+\subsection*{Ingredients}\label{ingredients-35}}
 
 
 \begin{itemize}
@@ -1629,8 +1645,8 @@ Preheat oven to 400°. Wash, core, and sherd the cabbage. In a saucepancook unti
   salt and pepper to taste
 \end{itemize}
 
-\hypertarget{directions-36}{%
-\subsection*{Directions}\label{directions-36}}
+\hypertarget{directions-35}{%
+\subsection*{Directions}\label{directions-35}}
 
 
 Wash and chop the vegetables into 1/2 to 3/4 inch pieces for even cooking. Do not peel the vegetables. Be sure to dry the mushrooms well after washing. Wet mushrooms turn mushy when cooked. Place the the sizzling hot pan. The hot pan helps sear in the vegetables natural moisture. Bake at 500 degrees for 8 to 10 minutes, turning halfway through. The vegetables are done when the vegetables begin to turn grown on the edges. Ratatouille can be served hot as a vegetable entrée over rice or tossed with tomato sauce and served over pasta. It also can be served cold or at room temperature with bread or crackers.
@@ -1645,8 +1661,8 @@ Wash and chop the vegetables into 1/2 to 3/4 inch pieces for even cooking. Do no
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-11}}
 
 
-\hypertarget{ingredients-37}{%
-\subsection*{Ingredients}\label{ingredients-37}}
+\hypertarget{ingredients-36}{%
+\subsection*{Ingredients}\label{ingredients-36}}
 
 
 \begin{itemize}
@@ -1675,35 +1691,11 @@ Wash and chop the vegetables into 1/2 to 3/4 inch pieces for even cooking. Do no
 \item
 \end{itemize}
 
-\hypertarget{directions-37}{%
-\subsection*{Directions}\label{directions-37}}
+\hypertarget{directions-36}{%
+\subsection*{Directions}\label{directions-36}}
 
 
 Cook the spinach and drain well. Beat eggs, add combined milk, butter, onion, parsley flakes and Worcestershire sauce, salt, thyme and nutmeg and mix well. Combine spinach and cheese, add egg mixture and mix all well. Pour into a greased shallow pan 9x13. Bake at 325° for 1 hour. Let cool a minute and cut into squares and serve. 12 servings
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{more-1}{%
-\section*{MORE}\label{more-1}}
-
-
-\hypertarget{chef-who-1}{%
-\subsection*{Chef: Who}\label{chef-who-1}}
-
-
-\hypertarget{ingredients-38}{%
-\subsection*{Ingredients}\label{ingredients-38}}
-
-
-\begin{itemize}
-\tightlist
-\item
-  2 T
-\end{itemize}
-
-\hypertarget{directions-38}{%
-\subsection*{Directions}\label{directions-38}}
-
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -1722,8 +1714,8 @@ Cook the spinach and drain well. Beat eggs, add combined milk, butter, onion, pa
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-12}}
 
 
-\hypertarget{ingredients-39}{%
-\subsection*{Ingredients}\label{ingredients-39}}
+\hypertarget{ingredients-37}{%
+\subsection*{Ingredients}\label{ingredients-37}}
 
 
 \begin{itemize}
@@ -1748,8 +1740,8 @@ Cook the spinach and drain well. Beat eggs, add combined milk, butter, onion, pa
   1/2 teaspoon pepper
 \end{itemize}
 
-\hypertarget{directions-39}{%
-\subsection*{Directions}\label{directions-39}}
+\hypertarget{directions-37}{%
+\subsection*{Directions}\label{directions-37}}
 
 
 Serve over cooked rice. Preheat oven to 375°. In a bowl mix ingredients; mayonnaise, sour cream, parmesan cheese, salt, pepper and garlic powder. Spread over chicken and sprinkle with 1/2 cup parmesan cheese. Pat chicken dry and place in greased 9x13 pan. Spread mixture over chicken and sprinkle with parmesan cheese. Bake 1 hour at 375 deg. Serve over rice or serve alone.
@@ -1764,8 +1756,8 @@ Serve over cooked rice. Preheat oven to 375°. In a bowl mix ingredients; mayonn
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-13}}
 
 
-\hypertarget{ingredients-40}{%
-\subsection*{Ingredients}\label{ingredients-40}}
+\hypertarget{ingredients-38}{%
+\subsection*{Ingredients}\label{ingredients-38}}
 
 
 \begin{itemize}
@@ -1794,8 +1786,8 @@ Serve over cooked rice. Preheat oven to 375°. In a bowl mix ingredients; mayonn
   3 chipotle peppers
 \end{itemize}
 
-\hypertarget{directions-40}{%
-\subsection*{Directions}\label{directions-40}}
+\hypertarget{directions-38}{%
+\subsection*{Directions}\label{directions-38}}
 
 
 Trim chicken breast and put in marinade. Let marinate 2 to 24 hours. APRICOT CHIPOTLE SAUCE: Heat the apricot preserves until warm and add chicken broth and chipotle peppers. Blend with hand blender until peppers are integrated. Chipotle peppers will make the sauce spicier, so begin with one pepper and taste the sauce. Add more if needed. Pour over chicken, cover and bake at 350 degrees for 1 1/2 hours. May cook in crock pot on low for 6-8 hours.Delicious served over rice.
@@ -1810,8 +1802,8 @@ Trim chicken breast and put in marinade. Let marinate 2 to 24 hours. APRICOT CHI
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-14}}
 
 
-\hypertarget{ingredients-41}{%
-\subsection*{Ingredients}\label{ingredients-41}}
+\hypertarget{ingredients-39}{%
+\subsection*{Ingredients}\label{ingredients-39}}
 
 
 \begin{itemize}
@@ -1830,8 +1822,8 @@ Trim chicken breast and put in marinade. Let marinate 2 to 24 hours. APRICOT CHI
   1 teaspoon granulated bouillon - or 1 cube
 \end{itemize}
 
-\hypertarget{directions-41}{%
-\subsection*{Directions}\label{directions-41}}
+\hypertarget{directions-39}{%
+\subsection*{Directions}\label{directions-39}}
 
 
 Brown chicken in pan with enough oil to brown it. Remove chicken to a plate. Put 1 cup of rice in pan and add 2 cups chicken broth, 1 package Lipton onion soup, chopped onion and bullion. Put chicken on top of rice and cover with a lid. Simmer on low until rice and chicken are done. You can add extra liquid if it needs more.
@@ -1846,8 +1838,8 @@ Brown chicken in pan with enough oil to brown it. Remove chicken to a plate. Put
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-9}}
 
 
-\hypertarget{ingredients-42}{%
-\subsection*{Ingredients}\label{ingredients-42}}
+\hypertarget{ingredients-40}{%
+\subsection*{Ingredients}\label{ingredients-40}}
 
 
 \begin{itemize}
@@ -1868,8 +1860,8 @@ Brown chicken in pan with enough oil to brown it. Remove chicken to a plate. Put
   2/3 cup butter, melted
 \end{itemize}
 
-\hypertarget{directions-42}{%
-\subsection*{Directions}\label{directions-42}}
+\hypertarget{directions-40}{%
+\subsection*{Directions}\label{directions-40}}
 
 
 Preheat oven to 400 deg. Cut chicken breasts into 1 1/2 inch pieces. In a Medium bowl, mix together the bread crumb, cheese, salt, thyme and basil. Mix well. Put butter in a bowl for dipping. Dip chicken pieces into melted butter first, then coat with the breadcrumb mixture. Place well coated chicken pieces on a lightly greased cookie sheet in a single layer, and bake in the preheated oven for 20 minutes.
@@ -1884,8 +1876,8 @@ Preheat oven to 400 deg. Cut chicken breasts into 1 1/2 inch pieces. In a Medium
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-15}}
 
 
-\hypertarget{ingredients-43}{%
-\subsection*{Ingredients}\label{ingredients-43}}
+\hypertarget{ingredients-41}{%
+\subsection*{Ingredients}\label{ingredients-41}}
 
 
 \begin{itemize}
@@ -1908,8 +1900,8 @@ Preheat oven to 400 deg. Cut chicken breasts into 1 1/2 inch pieces. In a Medium
   1 small can of tomatoes - optional
 \end{itemize}
 
-\hypertarget{directions-43}{%
-\subsection*{Directions}\label{directions-43}}
+\hypertarget{directions-41}{%
+\subsection*{Directions}\label{directions-41}}
 
 
 Brown the beef in skillet, drain. Stir in green pepper, onion, rice, bullion water, and soy sauce. Bing to boil, reduce heat, cover and cook over low heat until liquid is absorbed, about 20--25 minutes. Also, this recipe is good with a small can of tomatoes. Drain tomatoes and fold in at the end of cooking. Heat and serve.
@@ -1924,8 +1916,8 @@ Brown the beef in skillet, drain. Stir in green pepper, onion, rice, bullion wat
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-16}}
 
 
-\hypertarget{ingredients-44}{%
-\subsection*{Ingredients}\label{ingredients-44}}
+\hypertarget{ingredients-42}{%
+\subsection*{Ingredients}\label{ingredients-42}}
 
 
 \begin{itemize}
@@ -1952,8 +1944,8 @@ Brown the beef in skillet, drain. Stir in green pepper, onion, rice, bullion wat
   2 tablespoons vegetable oil - divided
 \end{itemize}
 
-\hypertarget{directions-44}{%
-\subsection*{Directions}\label{directions-44}}
+\hypertarget{directions-42}{%
+\subsection*{Directions}\label{directions-42}}
 
 
 In small bowl combine soy sauce, brown sugar, garlic and pepper. Set aside. Heat 1 tablespoon vegetable oil in large skillet over medium high heat. Add beef, and stir-fry sauce, cook until almost cooked through, about 2 minutes. Transfer beef to a plate and cover to keep warm. Heat remaining oil in skillet, add onion and stir-fry sauce, cook for 5 minutes. Cut broccoli into florets (about 4 cups), add to skillet with soy sauce mixture, add ginger. Bring to boil and cook, stirring constantly, until sauce thickens, about 2 minutes. Serve with, rice and serve warm.
@@ -1968,8 +1960,8 @@ In small bowl combine soy sauce, brown sugar, garlic and pepper. Set aside. Heat
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-10}}
 
 
-\hypertarget{ingredients-45}{%
-\subsection*{Ingredients}\label{ingredients-45}}
+\hypertarget{ingredients-43}{%
+\subsection*{Ingredients}\label{ingredients-43}}
 
 
 \begin{itemize}
@@ -2000,8 +1992,8 @@ In small bowl combine soy sauce, brown sugar, garlic and pepper. Set aside. Heat
   1 cup mozzarella cheese
 \end{itemize}
 
-\hypertarget{directions-45}{%
-\subsection*{Directions}\label{directions-45}}
+\hypertarget{directions-43}{%
+\subsection*{Directions}\label{directions-43}}
 
 
 Sauté ground beef until lightly browned. Stir in tomatoes, seasonings, rice, and cabbage. Cover and cook 10 - 15 minutes or until cabbage is tender crisp. Stir in sour cream, onions, and gree peppers. Heat through. Spoon into 3 quart casserole dish and sprinkle with cheese. Bake in oven at 350° until cheese is melted
@@ -2100,8 +2092,8 @@ Great served with warm tortillas. Add beans if you wish.
 \subsection*{Chef: Lori Hilton}\label{chef-lori-hilton-3}}
 
 
-\hypertarget{ingredients-46}{%
-\subsection*{Ingredients}\label{ingredients-46}}
+\hypertarget{ingredients-44}{%
+\subsection*{Ingredients}\label{ingredients-44}}
 
 
 \hypertarget{the-sauce}{%
@@ -2154,8 +2146,8 @@ Great served with warm tortillas. Add beans if you wish.
   2 tablespoons fresh basil - chopped
 \end{itemize}
 
-\hypertarget{directions-46}{%
-\subsection*{Directions}\label{directions-46}}
+\hypertarget{directions-44}{%
+\subsection*{Directions}\label{directions-44}}
 
 
 Preheat oven to 350°. To make the sauce, gently sauté the onion and garlic in olive oil in saucepan over medium heat until onion is translucent. Add the tomato paste and stir. Slowly add the water and stir. Add the seasonings and allow the sauce to simmer while preparing the manicotti and filling. FOR MANICOTTI: Bring a large pot of water to a boil, add olive oil, and drop in manicotti. Cook al dente, about 12 minutes. Drain and refresh under cold running water.
@@ -2172,8 +2164,8 @@ FOR FILLING: Beat the ricotta with the eggs until combined in the large bowl wit
 \subsection*{Chef: Jennifer Gustin}\label{chef-jennifer-gustin-7}}
 
 
-\hypertarget{ingredients-47}{%
-\subsection*{Ingredients}\label{ingredients-47}}
+\hypertarget{ingredients-45}{%
+\subsection*{Ingredients}\label{ingredients-45}}
 
 
 \begin{itemize}
@@ -2198,8 +2190,8 @@ FOR FILLING: Beat the ricotta with the eggs until combined in the large bowl wit
   1/2 teaspoon pepper
 \end{itemize}
 
-\hypertarget{directions-47}{%
-\subsection*{Directions}\label{directions-47}}
+\hypertarget{directions-45}{%
+\subsection*{Directions}\label{directions-45}}
 
 
 Prepare Cream of Buckwheat, using either milk or water. Sauté onion in butter then combine with buckwheat, sour cream, salt and pepper. In 2 quart casserole dish layer buckwheat mixture, cheddar cheese and chilies and repeat layers. Bake uncovered at 375° for 30 minutes, or until bubbly and golden. Let stand about 10 minutes before serving. Serves 6
@@ -2214,8 +2206,8 @@ Prepare Cream of Buckwheat, using either milk or water. Sauté onion in butter t
 \subsection*{Chef: Jennifer Gustin}\label{chef-jennifer-gustin-8}}
 
 
-\hypertarget{ingredients-48}{%
-\subsection*{Ingredients}\label{ingredients-48}}
+\hypertarget{ingredients-46}{%
+\subsection*{Ingredients}\label{ingredients-46}}
 
 
 \begin{itemize}
@@ -2244,8 +2236,8 @@ Prepare Cream of Buckwheat, using either milk or water. Sauté onion in butter t
   1 1/2 cup broken tortilla chips
 \end{itemize}
 
-\hypertarget{directions-48}{%
-\subsection*{Directions}\label{directions-48}}
+\hypertarget{directions-46}{%
+\subsection*{Directions}\label{directions-46}}
 
 
 Heat oven to 350°. In medium bowl beat eggs with wire whisk. Beat in half-and-half. Stir in chicken, both cheeses, salsa, green chilies and salt. Fold in broken tortilla chips. Pour into pie crust, sprinkle pepper over top of filling. Bake 55 to 64 minutes or until crust is lightly golden brown and knife inserted in center comes out clean. Let stand 10 minutes. Serve
@@ -2260,8 +2252,8 @@ Heat oven to 350°. In medium bowl beat eggs with wire whisk. Beat in half-and-h
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-17}}
 
 
-\hypertarget{ingredients-49}{%
-\subsection*{Ingredients}\label{ingredients-49}}
+\hypertarget{ingredients-47}{%
+\subsection*{Ingredients}\label{ingredients-47}}
 
 
 \hypertarget{for-filling}{%
@@ -2306,8 +2298,8 @@ Heat oil in the pan over medium heat and add chicken and fajita spice. Cook for 
   2 cups salsa
 \end{itemize}
 
-\hypertarget{directions-49}{%
-\subsection*{Directions}\label{directions-49}}
+\hypertarget{directions-47}{%
+\subsection*{Directions}\label{directions-47}}
 
 
 Let each leaf from itself into a natural cup. Sprinkle slicked cabbage in the cups. Divide chicken filling among the cups and top each with avocado slices and salsa. Makes 4 servings of 2 fajitas each.
@@ -2322,8 +2314,8 @@ Let each leaf from itself into a natural cup. Sprinkle slicked cabbage in the cu
 \subsection*{Chef: Amanda Tunison}\label{chef-amanda-tunison}}
 
 
-\hypertarget{ingredients-50}{%
-\subsection*{Ingredients}\label{ingredients-50}}
+\hypertarget{ingredients-48}{%
+\subsection*{Ingredients}\label{ingredients-48}}
 
 
 \begin{itemize}
@@ -2352,8 +2344,8 @@ Let each leaf from itself into a natural cup. Sprinkle slicked cabbage in the cu
   1 1/4 cups grape jelly
 \end{itemize}
 
-\hypertarget{directions-50}{%
-\subsection*{Directions}\label{directions-50}}
+\hypertarget{directions-48}{%
+\subsection*{Directions}\label{directions-48}}
 
 
 In large bowl, combine ground beef, bread crumbs, onion, milk, egg, Worcestershire sauce, salt and pepper. Mix together and shape into meatballs. In a large skillet, heat oilover medium eat. Add meatballs, in a large skillet, heat oil over medium heat. Add meatballs, and cook until browned, about 5-7 minutes. Remove from skillet, and drain on paper towels. Add chili sauce and jelly to skillet, heat, stirring until jelly is melted. Return meatballs to skillet and stir until coated. Reduce heat to low. Simmer uncovered for 0 minutes. Serve. Also delicious on rice.
@@ -2368,8 +2360,8 @@ In large bowl, combine ground beef, bread crumbs, onion, milk, egg, Worcestershi
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-18}}
 
 
-\hypertarget{ingredients-51}{%
-\subsection*{Ingredients}\label{ingredients-51}}
+\hypertarget{ingredients-49}{%
+\subsection*{Ingredients}\label{ingredients-49}}
 
 
 \begin{itemize}
@@ -2392,8 +2384,8 @@ In large bowl, combine ground beef, bread crumbs, onion, milk, egg, Worcestershi
   1 cup (4oz) cheddar cheese - shreaded
 \end{itemize}
 
-\hypertarget{directions-51}{%
-\subsection*{Directions}\label{directions-51}}
+\hypertarget{directions-49}{%
+\subsection*{Directions}\label{directions-49}}
 
 
 In skillet, combine soup, water, and butter: bring to a boil. Add kielbasa and rice. Reduce heat; cover and simmer about 18 minutes or until rice is almost tender. Stir in peas and mushrooms. Cover and simmer 15 minutes or until rice is tender and peas are heated through. Sprinkle with cheese: cover and let stand until melted. Serves 4 - 6
@@ -2408,8 +2400,8 @@ In skillet, combine soup, water, and butter: bring to a boil. Add kielbasa and r
 \subsection*{Chef: Rebecca Bright}\label{chef-rebecca-bright}}
 
 
-\hypertarget{ingredients-52}{%
-\subsection*{Ingredients}\label{ingredients-52}}
+\hypertarget{ingredients-50}{%
+\subsection*{Ingredients}\label{ingredients-50}}
 
 
 \begin{itemize}
@@ -2434,8 +2426,8 @@ In skillet, combine soup, water, and butter: bring to a boil. Add kielbasa and r
   6 prepared pie dough round or you cn make your favorite pastry rounds enough for six 10" pie rounds. Refer to recepie in ``Curry Pasties''.
 \end{itemize}
 
-\hypertarget{directions-52}{%
-\subsection*{Directions}\label{directions-52}}
+\hypertarget{directions-50}{%
+\subsection*{Directions}\label{directions-50}}
 
 
 Combine all ingredients, other than pastry, in large bowl. Set out pie crusts on a floured surface. Put 1 1/2 cups of filling on half of the round. Moisten the edges and fold the unfilled half over the filling to enclose it. Pinch the edges together to seal them and crimp them decoratively with a fork. Transfer pasty to lightly greased baking sheet and brush with egg for a nice shiny glaze. Bake in a preheated 350° oven for 50-60 minutes until golden brown.
@@ -2450,8 +2442,8 @@ Combine all ingredients, other than pastry, in large bowl. Set out pie crusts on
 \subsection*{Chef: Rebecca Bright}\label{chef-rebecca-bright-1}}
 
 
-\hypertarget{ingredients-53}{%
-\subsection*{Ingredients}\label{ingredients-53}}
+\hypertarget{ingredients-51}{%
+\subsection*{Ingredients}\label{ingredients-51}}
 
 
 \hypertarget{for-the-filling}{%
@@ -2498,8 +2490,8 @@ Sauté onions in 1 tablespoon olive oil. Add the three spices and cook until toa
 
 In a large bowl, combine flour, butter and salt. Blend ingredients until combined and add ice-water one tablespoon at a time to form a dough. Toss mixture until it forms a ball. Knead dough lightly against a smooth surface with heel of the hand to distribute evenly. Form into a ball, dust with flour. Wrap in wax paper and chill for 30 minutes.
 
-\hypertarget{directions-53}{%
-\subsection*{Directions}\label{directions-53}}
+\hypertarget{directions-51}{%
+\subsection*{Directions}\label{directions-51}}
 
 
 On a well-floured surface roll out dough pie crust thin and cut into 6-8 inch rounds. Fill with approximately ¾ filling on one half of the round, fold over and seal edges with water and crimp using a fork. Transfer pasty to lightly greased baking sheet and brush with egg for a nice shiny glaze. Bake in a preheated 350° oven for 25-30 minutes until golden gown. Serve with sour cream and chives with a dash of paprika
@@ -2514,8 +2506,8 @@ On a well-floured surface roll out dough pie crust thin and cut into 6-8 inch ro
 \subsection*{Chef: Rebecca Bright}\label{chef-rebecca-bright-2}}
 
 
-\hypertarget{ingredients-54}{%
-\subsection*{Ingredients}\label{ingredients-54}}
+\hypertarget{ingredients-52}{%
+\subsection*{Ingredients}\label{ingredients-52}}
 
 
 \begin{itemize}
@@ -2548,8 +2540,8 @@ On a well-floured surface roll out dough pie crust thin and cut into 6-8 inch ro
   1 can coconut milk
 \end{itemize}
 
-\hypertarget{directions-54}{%
-\subsection*{Directions}\label{directions-54}}
+\hypertarget{directions-52}{%
+\subsection*{Directions}\label{directions-52}}
 
 
 Heat skillet with 1-2 Tablespoons olive oil on medium heat until it is hot, add onions, garlic, and ginger, and stir constantly until onions are about half cooked, then add all the spices except the chilies.Stir constantly for about 2 minutes until spices are heated and combined evenly over onions. Add cubed meat and stir until just browned on the outside. Add the tomatoes, stock and chilies, reduce heat, cover and simmer of 1/2 hour. Remove lid and raise heat and reduce liquid until it starts thickening, stirring about every 3-5 minutes (this may take another 1/2 hour or more). When it has started to thicken, add the coconut milk and stir until well blended. Reduce again until the consistency of gravy. Serve while hot over basmati rice and naan bread (Indian flat bread).
@@ -2564,8 +2556,8 @@ Heat skillet with 1-2 Tablespoons olive oil on medium heat until it is hot, add 
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-11}}
 
 
-\hypertarget{ingredients-55}{%
-\subsection*{Ingredients}\label{ingredients-55}}
+\hypertarget{ingredients-53}{%
+\subsection*{Ingredients}\label{ingredients-53}}
 
 
 \begin{itemize}
@@ -2590,8 +2582,8 @@ Heat skillet with 1-2 Tablespoons olive oil on medium heat until it is hot, add 
   salt and pepper to taste
 \end{itemize}
 
-\hypertarget{directions-55}{%
-\subsection*{Directions}\label{directions-55}}
+\hypertarget{directions-53}{%
+\subsection*{Directions}\label{directions-53}}
 
 
 Layer potatoes, cheeses, and meats in 9x13 baking dish. Combine onion, eggs, milk, salt, and pepper; pour over mixture. Refrigerate overnight. Bake uncovered at 350° for 1 hour. Serve hot.
@@ -2606,8 +2598,8 @@ Layer potatoes, cheeses, and meats in 9x13 baking dish. Combine onion, eggs, mil
 \subsection*{Chef: Lori Hilton}\label{chef-lori-hilton-4}}
 
 
-\hypertarget{ingredients-56}{%
-\subsection*{Ingredients}\label{ingredients-56}}
+\hypertarget{ingredients-54}{%
+\subsection*{Ingredients}\label{ingredients-54}}
 
 
 \begin{itemize}
@@ -2628,8 +2620,8 @@ Layer potatoes, cheeses, and meats in 9x13 baking dish. Combine onion, eggs, mil
   salt and pepper to taste
 \end{itemize}
 
-\hypertarget{directions-56}{%
-\subsection*{Directions}\label{directions-56}}
+\hypertarget{directions-54}{%
+\subsection*{Directions}\label{directions-54}}
 
 
 Cut up vegetables and mix together with onion soup mix. Form hamburger into 4 patties. Place each patty on its own aheet of aluminum foil, sized large enough to wrap and seal the individual serving (shiny side up). If meat is lean add 1/2 teaspoon of oil or butter inside foil before sealing. Season hamburger with salt and pepper. Place vegetables on top of hamburger and season vegetables with salt and pepper. Seal foil by rolling the edges and cook in oven, on briquettes, or campfire coals. Use heavy duty foil or double layer over briquettes or campfire. Cooking time about 30 minutes. Serves 4. Serve with s'mores as dessert.
@@ -2644,8 +2636,8 @@ Cut up vegetables and mix together with onion soup mix. Form hamburger into 4 pa
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-12}}
 
 
-\hypertarget{ingredients-57}{%
-\subsection*{Ingredients}\label{ingredients-57}}
+\hypertarget{ingredients-55}{%
+\subsection*{Ingredients}\label{ingredients-55}}
 
 
 \begin{itemize}
@@ -2668,8 +2660,8 @@ Cut up vegetables and mix together with onion soup mix. Form hamburger into 4 pa
   3 boneless chicken breast - cooked and sliced
 \end{itemize}
 
-\hypertarget{directions-57}{%
-\subsection*{Directions}\label{directions-57}}
+\hypertarget{directions-55}{%
+\subsection*{Directions}\label{directions-55}}
 
 
 Preheat oven to 325°. Combine bell pepper, celery, green onions in skillet with butter and sauté for 5 minutes, transfer to bowl. Stir in green chilies, rice, sour cream, chicken broth, 1/4 cup water, salt and pepper. Pour into sprayed 9x13 baking dish, cover and bake 40 minutes. Uncover and continue to bake for 10 minutes.
@@ -2684,8 +2676,8 @@ Preheat oven to 325°. Combine bell pepper, celery, green onions in skillet with
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-19}}
 
 
-\hypertarget{ingredients-58}{%
-\subsection*{Ingredients}\label{ingredients-58}}
+\hypertarget{ingredients-56}{%
+\subsection*{Ingredients}\label{ingredients-56}}
 
 
 \begin{itemize}
@@ -2710,8 +2702,8 @@ Preheat oven to 325°. Combine bell pepper, celery, green onions in skillet with
   crushed red-pepper flakes to taste
 \end{itemize}
 
-\hypertarget{directions-58}{%
-\subsection*{Directions}\label{directions-58}}
+\hypertarget{directions-56}{%
+\subsection*{Directions}\label{directions-56}}
 
 
 Bring a large pot of water to a boil. Thinly slice sausage and peppers. Cook greens in boiling water until tender, about 8 minutes. Meanwhile, in a small pot, combine milk, I cup water and salt over medium heat. When it starts to bubbles, slowly stir in grits. Reduce heat to low and cook, stirring often, until grits are tender, about 5 minutes. Remove from heat and stir in butter. Cover and set aside, Drain collard greens and set aside. Return empty pot to medium heat. Add oil, sausage and peppers; cook about 2 minutes. Add cooked greens and toss until heated through. Dish grits into serving bowls and top with greens and sausage mixture. Season to taste with red-pepper flakes.
@@ -2726,8 +2718,8 @@ Bring a large pot of water to a boil. Thinly slice sausage and peppers. Cook gre
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-20}}
 
 
-\hypertarget{ingredients-59}{%
-\subsection*{Ingredients}\label{ingredients-59}}
+\hypertarget{ingredients-57}{%
+\subsection*{Ingredients}\label{ingredients-57}}
 
 
 \begin{itemize}
@@ -2748,8 +2740,8 @@ Bring a large pot of water to a boil. Thinly slice sausage and peppers. Cook gre
   Salt and pepper to taste
 \end{itemize}
 
-\hypertarget{directions-59}{%
-\subsection*{Directions}\label{directions-59}}
+\hypertarget{directions-57}{%
+\subsection*{Directions}\label{directions-57}}
 
 
 In a large skillet, brown beef and onion; drain. Add remaining ingredients. Cover and simmer for 20 minutes or until vegetables are tender, stiring occasionally. Yield 6 servings.
@@ -2764,8 +2756,8 @@ In a large skillet, brown beef and onion; drain. Add remaining ingredients. Cove
 \subsection*{Chef: Mike Sharp, Susan Sharp}\label{chef-mike-sharp-susan-sharp}}
 
 
-\hypertarget{ingredients-60}{%
-\subsection*{Ingredients}\label{ingredients-60}}
+\hypertarget{ingredients-58}{%
+\subsection*{Ingredients}\label{ingredients-58}}
 
 
 \begin{itemize}
@@ -2786,8 +2778,8 @@ In a large skillet, brown beef and onion; drain. Add remaining ingredients. Cove
   Lemon slices - for optional garnish
 \end{itemize}
 
-\hypertarget{directions-60}{%
-\subsection*{Directions}\label{directions-60}}
+\hypertarget{directions-58}{%
+\subsection*{Directions}\label{directions-58}}
 
 
 Heat oil in a ten inch skillet over medium high heat. Cook chicken for 10 minutes or until well browned on both sides. Stir in the soup, milk, lemon juice and black pepper in skillet. Heat to a boil, reduce the heat to low. Cover and cook for 5 minutes or until chicken is cooked through. Garnish with lemon slices if desired.
@@ -2802,8 +2794,8 @@ Heat oil in a ten inch skillet over medium high heat. Cook chicken for 10 minute
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-21}}
 
 
-\hypertarget{ingredients-61}{%
-\subsection*{Ingredients}\label{ingredients-61}}
+\hypertarget{ingredients-59}{%
+\subsection*{Ingredients}\label{ingredients-59}}
 
 
 \begin{itemize}
@@ -2836,8 +2828,8 @@ Heat oil in a ten inch skillet over medium high heat. Cook chicken for 10 minute
   Omit the ketchup is doing mashed potato on top of meat-loaf
 \end{itemize}
 
-\hypertarget{directions-61}{%
-\subsection*{Directions}\label{directions-61}}
+\hypertarget{directions-59}{%
+\subsection*{Directions}\label{directions-59}}
 
 
 Mix all ingredients except catchup. Spread mixture in ungreased loaf pan or shape into loaf in ungreasedrectangular pan. Bake uncovered in 350° oven until done (1-1 1/4 hours). Remove from pan, top with catchup. If desired cover with mashed potatoes and omit the ketchup. Make mashed potatoes and spread over meat loaf. Sprinkle 1/2 cup of cheddar cheese on top. Bake until cheese is melted, 2-4 minutes.
@@ -2893,8 +2885,8 @@ Mix all ingredients except catchup. Spread mixture in ungreased loaf pan or shap
   1/2 teaspoon pepper
 \end{itemize}
 
-\hypertarget{directions-62}{%
-\subsection*{Directions}\label{directions-62}}
+\hypertarget{directions-60}{%
+\subsection*{Directions}\label{directions-60}}
 
 
 In a saucepan melt butter. When melted add garlic, cream cheese (and stir in other cheese). When soft, add heavy cream (and milk). Simmer for 15-20 minutes. Season with salt and pepper. Serve over pasta with chicken or shrimp.
@@ -2909,8 +2901,8 @@ In a saucepan melt butter. When melted add garlic, cream cheese (and stir in oth
 \subsection*{Chef: Jennifer Gustin}\label{chef-jennifer-gustin-9}}
 
 
-\hypertarget{ingredients-62}{%
-\subsection*{Ingredients}\label{ingredients-62}}
+\hypertarget{ingredients-60}{%
+\subsection*{Ingredients}\label{ingredients-60}}
 
 
 \hypertarget{the-meatballs}{%
@@ -2963,8 +2955,8 @@ Combine chili sauce and grape jelly and heat until bubbly. Pour over meatballs a
 \subsection*{Chef: Amanda Tunison}\label{chef-amanda-tunison-1}}
 
 
-\hypertarget{ingredients-63}{%
-\subsection*{Ingredients}\label{ingredients-63}}
+\hypertarget{ingredients-61}{%
+\subsection*{Ingredients}\label{ingredients-61}}
 
 
 \begin{itemize}
@@ -2997,8 +2989,8 @@ Combine chili sauce and grape jelly and heat until bubbly. Pour over meatballs a
   choped fresh parsley, optional
 \end{itemize}
 
-\hypertarget{directions-63}{%
-\subsection*{Directions}\label{directions-63}}
+\hypertarget{directions-61}{%
+\subsection*{Directions}\label{directions-61}}
 
 
 In a large bowl, beat egg. Stir in 1/3 cup of soup, bread crumbs, salt, pepper. Crumble beef over mixture; mix gently. Shape into six oval patties. In a skillet, brown patties over medium heat for 3-4 min on each side. Remove and set aside; drain. Add he water, ketchup, Worcestershire sauce, mustard and remaining soup, to skillet. Bring to a boil. Return patties to skillet. Reduce heat; cover and simmer for 15 minutes or until meat is no longer pink. Remove patties. Combine flour and cold water until smooth. Stir into pan. Bring to boil; cook and stir for 2 minutes or until thickened. Serve patties and gravy over noodles. Garnish with parsley if desired.
@@ -3017,8 +3009,8 @@ In a large bowl, beat egg. Stir in 1/3 cup of soup, bread crumbs, salt, pepper. 
 \subsection*{Chef: Cody Gustin}\label{chef-cody-gustin}}
 
 
-\hypertarget{ingredients-64}{%
-\subsection*{Ingredients}\label{ingredients-64}}
+\hypertarget{ingredients-62}{%
+\subsection*{Ingredients}\label{ingredients-62}}
 
 
 \begin{itemize}
@@ -3035,8 +3027,8 @@ In a large bowl, beat egg. Stir in 1/3 cup of soup, bread crumbs, salt, pepper. 
   1 pound pencil thn asparagus spears
 \end{itemize}
 
-\hypertarget{directions-64}{%
-\subsection*{Directions}\label{directions-64}}
+\hypertarget{directions-62}{%
+\subsection*{Directions}\label{directions-62}}
 
 
 Pound out chicken breast till roughly 3/4 inch thick. Heat oil in 12 inch skillet over medium heat. Sprinkle chicken generously with salt and pepper. Cook chicken through, about 4 minutes on each side. Meanwhile, snap ends of asparagus and rinse. Place asparagus in a 2 quart microwave safe casserole dish with a lid. Add 1/4 cup water. Cover and microwave 4 minutes or till crisp tender. Remove from th microwave and set aside. Put cheese in microwave about 2 minutes, stirring half way through. Arrange chicken breast on top of the asparagus, top with cheese sauce.
@@ -3051,8 +3043,8 @@ Pound out chicken breast till roughly 3/4 inch thick. Heat oil in 12 inch skille
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-22}}
 
 
-\hypertarget{ingredients-65}{%
-\subsection*{Ingredients}\label{ingredients-65}}
+\hypertarget{ingredients-63}{%
+\subsection*{Ingredients}\label{ingredients-63}}
 
 
 \begin{itemize}
@@ -3085,8 +3077,8 @@ Pound out chicken breast till roughly 3/4 inch thick. Heat oil in 12 inch skille
   2 teaspoons sesame seeds - toasted
 \end{itemize}
 
-\hypertarget{directions-65}{%
-\subsection*{Directions}\label{directions-65}}
+\hypertarget{directions-63}{%
+\subsection*{Directions}\label{directions-63}}
 
 
 Heat oil in Dutch oven, brown chicken on both sides. Mix soy sauce, brown sugar, water, catchup, red pepper, garlic and green onion. Pour mixture over chicken. Cover, simmer 35-45 minutes. Remove chicken to platter. Drain juices back to pan and skim fat. Blend together cornstarch and water, stir into sauce. Cook stirring till thickened. Spoon sauce over chicken and sprinkle with sesame seeds. Serve with sauce and rice.
@@ -3101,8 +3093,8 @@ Heat oil in Dutch oven, brown chicken on both sides. Mix soy sauce, brown sugar,
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-23}}
 
 
-\hypertarget{ingredients-66}{%
-\subsection*{Ingredients}\label{ingredients-66}}
+\hypertarget{ingredients-64}{%
+\subsection*{Ingredients}\label{ingredients-64}}
 
 
 \begin{itemize}
@@ -3125,8 +3117,8 @@ Heat oil in Dutch oven, brown chicken on both sides. Mix soy sauce, brown sugar,
   3/4 cup (3oz) shredded mozzarella cheese
 \end{itemize}
 
-\hypertarget{directions-66}{%
-\subsection*{Directions}\label{directions-66}}
+\hypertarget{directions-64}{%
+\subsection*{Directions}\label{directions-64}}
 
 
 Cut thin slice from stem end of each pepper. Remove seeds and membranes; rinse peppers. Cook peppers
@@ -3145,8 +3137,8 @@ Sprinkle with cheese. 6 servings; 290 calories per serving.
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-24}}
 
 
-\hypertarget{ingredients-67}{%
-\subsection*{Ingredients}\label{ingredients-67}}
+\hypertarget{ingredients-65}{%
+\subsection*{Ingredients}\label{ingredients-65}}
 
 
 \begin{itemize}
@@ -3169,8 +3161,8 @@ Sprinkle with cheese. 6 servings; 290 calories per serving.
   garnish if desired, sour cream, ripe olives, lettuce
 \end{itemize}
 
-\hypertarget{directions-67}{%
-\subsection*{Directions}\label{directions-67}}
+\hypertarget{directions-65}{%
+\subsection*{Directions}\label{directions-65}}
 
 
 Grown and drain the hamburger and onion. Salt to taste. In 9''x13'' pan spread refried beans,
@@ -3188,8 +3180,8 @@ and sor cream. Serve with chips and lettuce.
 \subsection*{Chef: Rebecca Bright}\label{chef-rebecca-bright-3}}
 
 
-\hypertarget{ingredients-68}{%
-\subsection*{Ingredients}\label{ingredients-68}}
+\hypertarget{ingredients-66}{%
+\subsection*{Ingredients}\label{ingredients-66}}
 
 
 \begin{itemize}
@@ -3218,8 +3210,8 @@ and sor cream. Serve with chips and lettuce.
   2 cups sharp cheddar cheese
 \end{itemize}
 
-\hypertarget{directions-68}{%
-\subsection*{Directions}\label{directions-68}}
+\hypertarget{directions-66}{%
+\subsection*{Directions}\label{directions-66}}
 
 
 Sauté onion and garlic in 1 tablespoon olive oil over medium high heat, add ground meat,
@@ -3238,8 +3230,8 @@ for 30 minutes or until cheese is bubbly and gets slightly browned spots.
 \subsection*{Chef: Rebecca Bright}\label{chef-rebecca-bright-4}}
 
 
-\hypertarget{ingredients-69}{%
-\subsection*{Ingredients}\label{ingredients-69}}
+\hypertarget{ingredients-67}{%
+\subsection*{Ingredients}\label{ingredients-67}}
 
 
 \begin{itemize}
@@ -3262,8 +3254,8 @@ for 30 minutes or until cheese is bubbly and gets slightly browned spots.
   1 pound (give or take) of sausage links - I like to use the Little Smokies but you can use full size and cut them into chunks. Use the fully cooked sausage unless you pre-cook them.
 \end{itemize}
 
-\hypertarget{directions-69}{%
-\subsection*{Directions}\label{directions-69}}
+\hypertarget{directions-67}{%
+\subsection*{Directions}\label{directions-67}}
 
 
 \begin{enumerate}
@@ -3294,8 +3286,8 @@ for 30 minutes or until cheese is bubbly and gets slightly browned spots.
 \subsection*{Chef: Debbie Wescott}\label{chef-debbie-wescott-3}}
 
 
-\hypertarget{ingredients-70}{%
-\subsection*{Ingredients}\label{ingredients-70}}
+\hypertarget{ingredients-68}{%
+\subsection*{Ingredients}\label{ingredients-68}}
 
 
 \begin{itemize}
@@ -3320,8 +3312,8 @@ for 30 minutes or until cheese is bubbly and gets slightly browned spots.
   2 tablespoons olive oil
 \end{itemize}
 
-\hypertarget{directions-70}{%
-\subsection*{Directions}\label{directions-70}}
+\hypertarget{directions-68}{%
+\subsection*{Directions}\label{directions-68}}
 
 
 Heat the olive oil in a larger Dutch oven size pot. Sauté garlic and onion until clear, add tomato and other
@@ -3344,8 +3336,8 @@ in a separate pan before adding to the sauce.
 \subsection*{Chef: Rebecca Bright}\label{chef-rebecca-bright-5}}
 
 
-\hypertarget{ingredients-71}{%
-\subsection*{Ingredients}\label{ingredients-71}}
+\hypertarget{ingredients-69}{%
+\subsection*{Ingredients}\label{ingredients-69}}
 
 
 \begin{itemize}
@@ -3372,8 +3364,8 @@ in a separate pan before adding to the sauce.
   scallions for garnish
 \end{itemize}
 
-\hypertarget{directions-71}{%
-\subsection*{Directions}\label{directions-71}}
+\hypertarget{directions-69}{%
+\subsection*{Directions}\label{directions-69}}
 
 
 Cook turkey then add garlic, ginger, onions, veggie blend. This will cook quickly, you want veggies to be tender.
@@ -3389,8 +3381,8 @@ Add the grains and teriyaki sauce. Serve in lettuce with a dash or more of chili
 \subsection*{Chef: Rebecca Bright}\label{chef-rebecca-bright-6}}
 
 
-\hypertarget{ingredients-72}{%
-\subsection*{Ingredients}\label{ingredients-72}}
+\hypertarget{ingredients-70}{%
+\subsection*{Ingredients}\label{ingredients-70}}
 
 
 \begin{itemize}
@@ -3423,8 +3415,8 @@ Add the grains and teriyaki sauce. Serve in lettuce with a dash or more of chili
   1/2 teaspoon salt
 \end{itemize}
 
-\hypertarget{directions-72}{%
-\subsection*{Directions}\label{directions-72}}
+\hypertarget{directions-70}{%
+\subsection*{Directions}\label{directions-70}}
 
 
 Brown the sausage with dry quinoa in a pan. Once browned add 1 cup water,
@@ -3443,8 +3435,8 @@ Cover top with mozzarella and Parmesan cheese. Bake at 375° until cheese is bub
 \subsection*{Chef: uknown}\label{chef-uknown}}
 
 
-\hypertarget{ingredients-73}{%
-\subsection*{Ingredients}\label{ingredients-73}}
+\hypertarget{ingredients-71}{%
+\subsection*{Ingredients}\label{ingredients-71}}
 
 
 \begin{itemize}
@@ -3483,8 +3475,8 @@ Cover top with mozzarella and Parmesan cheese. Bake at 375° until cheese is bub
   1/8 teaspoon hot pepper sauce
 \end{itemize}
 
-\hypertarget{directions-73}{%
-\subsection*{Directions}\label{directions-73}}
+\hypertarget{directions-71}{%
+\subsection*{Directions}\label{directions-71}}
 
 
 \begin{enumerate}
@@ -3494,29 +3486,11 @@ Cover top with mozzarella and Parmesan cheese. Bake at 375° until cheese is bub
   Place the beef in a skillet over medium heat, and cook until evenly brown. Drain grease.
 \item
   Place the beef in a slow cooker, and mix in onion, celery, green bell pepper, garlic,
-  tomato puree kidney beans, and cannellini beans. Season with chili powder, parsley,
+  tomato puree, kidney beans, and cannellini beans. Season with chili powder, parsley,
   salt, basil, oregano, black pepper, and hot pepper sauce.
 \item
   Cover, and cook 8 hours on low.
 \end{enumerate}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{more-2}{%
-\section*{MORE}\label{more-2}}
-
-
-\hypertarget{chef-who-2}{%
-\subsection*{Chef: who}\label{chef-who-2}}
-
-
-\hypertarget{ingredients-74}{%
-\section*{\#\#\# Ingredients}\label{ingredients-74}}
-
-
-\hypertarget{directions-74}{%
-\subsection*{Directions}\label{directions-74}}
-
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -3539,8 +3513,8 @@ Cover top with mozzarella and Parmesan cheese. Bake at 375° until cheese is bub
 \subsection*{Chef: Rosetta Spencer}\label{chef-rosetta-spencer}}
 
 
-\hypertarget{ingredients-75}{%
-\subsection*{Ingredients}\label{ingredients-75}}
+\hypertarget{ingredients-72}{%
+\subsection*{Ingredients}\label{ingredients-72}}
 
 
 \begin{itemize}
@@ -3567,8 +3541,8 @@ Cover top with mozzarella and Parmesan cheese. Bake at 375° until cheese is bub
   Brown sugar and more butter
 \end{itemize}
 
-\hypertarget{directions-75}{%
-\subsection*{Directions}\label{directions-75}}
+\hypertarget{directions-72}{%
+\subsection*{Directions}\label{directions-72}}
 
 
 Dissolve 2 pkgs. Yeast in 1/2 cup warm water (over 100° will kill the yeast). Mix in 1/2 cup sugar 1/2 cup of butter,
@@ -3588,8 +3562,8 @@ Let the rolls rise. Bake in about 325° oven until brown, about 20 minutes. Fros
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-25}}
 
 
-\hypertarget{ingredients-76}{%
-\subsection*{Ingredients}\label{ingredients-76}}
+\hypertarget{ingredients-73}{%
+\subsection*{Ingredients}\label{ingredients-73}}
 
 
 \begin{itemize}
@@ -3616,8 +3590,8 @@ Let the rolls rise. Bake in about 325° oven until brown, about 20 minutes. Fros
   3 tablespoons margarine or butter - melted
 \end{itemize}
 
-\hypertarget{directions-76}{%
-\subsection*{Directions}\label{directions-76}}
+\hypertarget{directions-73}{%
+\subsection*{Directions}\label{directions-73}}
 
 
 Mix together the flour, baking powder, xanthan gum, salt, and egg replacer ( if used ). Set aside. Add 1 teaspoon or the sugar to the water and stir in the yeast. Set aside. Grease 6 English muffin rings and place them on a greased baking sheet. I use small Corning ware dishes for these. In a mixing bowl, blend together, using a mixer at low speed, the remaining sugar, egg, margarine, dough enhancer, and yeast water. Beat in half the flour mixture. With a spoon, stir in the remaining flour and beat until smooth. Pour batter into the prepared rings or dishes. Cover and let rise in a warm place until the batter doubles, 40 -- 45 minutes for regular yeast; 20 -- 25 minutes for rapid rise. Preheat oven to 375°. Bake for 18 to 20 minutes until browned lightly and pulled slightly away from the rings. Makes 6 crumpets.
@@ -3636,8 +3610,8 @@ Mix together the flour, baking powder, xanthan gum, salt, and egg replacer ( if 
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-26}}
 
 
-\hypertarget{ingredients-77}{%
-\subsection*{Ingredients}\label{ingredients-77}}
+\hypertarget{ingredients-74}{%
+\subsection*{Ingredients}\label{ingredients-74}}
 
 
 \begin{itemize}
@@ -3662,8 +3636,8 @@ Mix together the flour, baking powder, xanthan gum, salt, and egg replacer ( if 
   1/4 teaspoon salt
 \end{itemize}
 
-\hypertarget{directions-77}{%
-\subsection*{Directions}\label{directions-77}}
+\hypertarget{directions-74}{%
+\subsection*{Directions}\label{directions-74}}
 
 
 In a medium bowl, blend the flour and xanthan gum. Add the egg and then beat into the flour mixture, gradually adding the milk. Beat to the consistency of thick cream. Add the sugar, syrup, butter, baking powder, and salt. Beat well. Drop the batter onto a medium-hot Teflon or lightly greased griddle by the tablespoon to make scones 2 ½ inches in diameter. Cook as for pancakes, but since these are thicker, they will need to be on the heat longer, since these are thicker, they will need to be on the heat longer, so don't have the griddle extra hot, or you will have doughy centers. Serve hot. Split to fill with butter and jam, sausage, or cheese. Makes 5 or 6 scones. I use this recipe to make Dad's pancakes. I use about double the amount of milk to thin it enough for pancakes.
@@ -3678,8 +3652,8 @@ In a medium bowl, blend the flour and xanthan gum. Add the egg and then beat int
 \subsection*{Chef: Jennifer Gustin}\label{chef-jennifer-gustin-10}}
 
 
-\hypertarget{ingredients-78}{%
-\subsection*{Ingredients}\label{ingredients-78}}
+\hypertarget{ingredients-75}{%
+\subsection*{Ingredients}\label{ingredients-75}}
 
 
 \begin{itemize}
@@ -3712,8 +3686,8 @@ In a medium bowl, blend the flour and xanthan gum. Add the egg and then beat int
   1/2 cup cup nuts (optional)
 \end{itemize}
 
-\hypertarget{directions-78}{%
-\subsection*{Directions}\label{directions-78}}
+\hypertarget{directions-75}{%
+\subsection*{Directions}\label{directions-75}}
 
 
 In a medium bowl, mix Raisin Bran, egg, oranges, banana, and melted butter. Add the prune juice to the mandarin oranges to make 1 cup. Mix the 1 cup juice into the Raisin Bran mixture. Let stand 5 minutes. In a medium bowl, mix flour, brown sugar, baking soda, baking powder, cinnamon, raisins, and nuts together until combined. Add the mixture to the Raisin Bran mix. Pour mixture into lined cupcake molds and bake for 25 minutes at 375°.
@@ -3728,8 +3702,8 @@ In a medium bowl, mix Raisin Bran, egg, oranges, banana, and melted butter. Add 
 \subsection*{Chef: Susan Sharp}\label{chef-susan-sharp}}
 
 
-\hypertarget{ingredients-79}{%
-\subsection*{Ingredients}\label{ingredients-79}}
+\hypertarget{ingredients-76}{%
+\subsection*{Ingredients}\label{ingredients-76}}
 
 
 \begin{itemize}
@@ -3746,8 +3720,8 @@ In a medium bowl, mix Raisin Bran, egg, oranges, banana, and melted butter. Add 
   1 1/2 cup water
 \end{itemize}
 
-\hypertarget{directions-79}{%
-\subsection*{Directions}\label{directions-79}}
+\hypertarget{directions-76}{%
+\subsection*{Directions}\label{directions-76}}
 
 
 Put all dry ingredients in a large bowl. Using your hands slowly mix in water. Mix into a soft not sticky dough. Preheat shortening in a fry pan 1/2 inch to 1 inch of oil. Using your hands form a small amount of dough into a circle 6 to 8 inches in diameter or use a rolling pin. Place in hot oil. Turn when underside is golden brown.
@@ -3762,8 +3736,8 @@ Put all dry ingredients in a large bowl. Using your hands slowly mix in water. M
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-27}}
 
 
-\hypertarget{ingredients-80}{%
-\subsection*{Ingredients}\label{ingredients-80}}
+\hypertarget{ingredients-77}{%
+\subsection*{Ingredients}\label{ingredients-77}}
 
 
 \begin{itemize}
@@ -3794,29 +3768,11 @@ Put all dry ingredients in a large bowl. Using your hands slowly mix in water. M
   1/2 cup green onions - finely sliced
 \end{itemize}
 
-\hypertarget{directions-80}{%
-\subsection*{Directions}\label{directions-80}}
+\hypertarget{directions-77}{%
+\subsection*{Directions}\label{directions-77}}
 
 
 Heat oven to 425°. Spray 12 2 1/2'' muffin cups with vegetable oil spray. In a medium bowl, blend flour mix, xanthan gum, cornmeal, baking powder, Egg Replacer (if used), salt, baking soda, and cayenne pepper. In a large bowl, beat the egg substitute slightly with a wire whisk. Add the yogurt and oil and whisk. With spoon, stir in the flour mix until just blended. Stir in the green onions. Spoon into prepared muffin cups. Bake 15 minutes or until tester comes out clean. Serve hot from the oven or cool to serve later. Makes 12 2 1/2''' muffins.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{more-3}{%
-\section*{MORE}\label{more-3}}
-
-
-\hypertarget{chef-who-3}{%
-\subsection*{Chef: Who}\label{chef-who-3}}
-
-
-\hypertarget{ingredients-81}{%
-\section*{\#\#\# Ingredients}\label{ingredients-81}}
-
-
-\hypertarget{directions-81}{%
-\subsection*{Directions}\label{directions-81}}
-
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -3941,8 +3897,8 @@ Preheat oven to 350°. Blend together the almonds, sugar, flour and butter. Crum
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-14}}
 
 
-\hypertarget{ingredients-82}{%
-\subsection*{Ingredients}\label{ingredients-82}}
+\hypertarget{ingredients-78}{%
+\subsection*{Ingredients}\label{ingredients-78}}
 
 
 \begin{itemize}
@@ -3959,8 +3915,8 @@ Preheat oven to 350°. Blend together the almonds, sugar, flour and butter. Crum
   3 1/2 cups poowder sugar
 \end{itemize}
 
-\hypertarget{directions-82}{%
-\subsection*{Directions}\label{directions-82}}
+\hypertarget{directions-78}{%
+\subsection*{Directions}\label{directions-78}}
 
 
 Preheat oven to 350°. Grease and flour a 15''x10'' sheet pan. Mix together cake mix, butter, and 1 egg. Press mixture into pan. In a small bowl mix together cream cheese, 2 eggs, and powder sugar. Pour mixture on top of cake mixture. Bake for 15 minutes. Reduce temperature to 300° and bake for 30-35 minutes. Cool and cut into squares.
@@ -3975,8 +3931,8 @@ Preheat oven to 350°. Grease and flour a 15''x10'' sheet pan. Mix together cake
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-29}}
 
 
-\hypertarget{ingredients-83}{%
-\subsection*{Ingredients}\label{ingredients-83}}
+\hypertarget{ingredients-79}{%
+\subsection*{Ingredients}\label{ingredients-79}}
 
 
 \begin{itemize}
@@ -4007,8 +3963,8 @@ Preheat oven to 350°. Grease and flour a 15''x10'' sheet pan. Mix together cake
   3 cups gratted carrots
 \end{itemize}
 
-\hypertarget{directions-83}{%
-\subsection*{Directions}\label{directions-83}}
+\hypertarget{directions-79}{%
+\subsection*{Directions}\label{directions-79}}
 
 
 Heat oven to 350°. Spray a Bundt pan with vegetable oil spray and dust with rice flour. In a large mixing bowl, combine flour, xanthan gum, sugar, baking soda, baking powder, salt, spice, and lemon zest. Set aside. Drain the plums, reserving the juice; pit them and purée them in the food processor, adding enough of the reserved juice to make 1 ¼ cups. Combine the purée, egg substitute, and oil, beating to mix well. Stir into the flour mixture along with the grated carrots. Pour batter into prepared pan and bake for 1 our and 10 minutes or until a tester comes out clean. Cool in pan 10 minutes before turning out. If desired, while still warm, drizzle on a thin icing of confectioners' sugar mixed with fruit juice. Note: I have always used the baby prunes and it works out well. I have also used a 9x13 pan as Dad likes this better than a Bundt pam. I made this cake for Lori and Beau's wedding to take on their honeymoon. They really liked it.
@@ -4023,8 +3979,8 @@ Heat oven to 350°. Spray a Bundt pan with vegetable oil spray and dust with ric
 \subsection*{Chef: Patricia Blair / Lion House Recipes}\label{chef-patricia-blair-lion-house-recipes}}
 
 
-\hypertarget{ingredients-84}{%
-\subsection*{Ingredients}\label{ingredients-84}}
+\hypertarget{ingredients-80}{%
+\subsection*{Ingredients}\label{ingredients-80}}
 
 
 \begin{itemize}
@@ -4047,8 +4003,8 @@ Heat oven to 350°. Spray a Bundt pan with vegetable oil spray and dust with ric
   lemon zest of 1/2 lemon
 \end{itemize}
 
-\hypertarget{directions-84}{%
-\subsection*{Directions}\label{directions-84}}
+\hypertarget{directions-80}{%
+\subsection*{Directions}\label{directions-80}}
 
 
 CRUST: Cream butter and sugar; add 1 cup flour. Spread in an 8x8 pan and bake at 325° for 15-20 minutes. While crust is baking prepare next layer. FILLING: Beat eggs slightly and add sugar, flour, lemon juice and zest. Mix well and our over hot crust after it comes from oven. Now bake for 15 -20 minutes at 325°. Remove from oven and sprinkle and sifted powder sugar. Cool slightly before cutting.
@@ -4109,8 +4065,8 @@ Mix powdered sugar and lemon juice. Prick top crust of cake with a fork. Pour on
 \subsection*{Chef: Jennifer Gustin}\label{chef-jennifer-gustin-11}}
 
 
-\hypertarget{ingredients-85}{%
-\subsection*{Ingredients}\label{ingredients-85}}
+\hypertarget{ingredients-81}{%
+\subsection*{Ingredients}\label{ingredients-81}}
 
 
 \begin{itemize}
@@ -4131,8 +4087,8 @@ Mix powdered sugar and lemon juice. Prick top crust of cake with a fork. Pour on
   1 cup tutella
 \end{itemize}
 
-\hypertarget{directions-85}{%
-\subsection*{Directions}\label{directions-85}}
+\hypertarget{directions-81}{%
+\subsection*{Directions}\label{directions-81}}
 
 
 Preheat oven to 350°. In a small bowl combine flour and salt and set aside. Using an electric mixer blend butter until light and fluffy. Mix in sugar, eggs, vanilla and mix well followed by Nutella and stir until mixture is creamy. Stir in flour mixture. Pour into greased 11x7 or 8'' rectangular baking pan and bake for 27-32 minutes. Cool pan on wire rack.
@@ -4147,8 +4103,8 @@ Preheat oven to 350°. In a small bowl combine flour and salt and set aside. Usi
 \subsection*{Chef: Jennifer Gustin}\label{chef-jennifer-gustin-12}}
 
 
-\hypertarget{ingredients-86}{%
-\subsection*{Ingredients}\label{ingredients-86}}
+\hypertarget{ingredients-82}{%
+\subsection*{Ingredients}\label{ingredients-82}}
 
 
 \begin{itemize}
@@ -4165,8 +4121,8 @@ Preheat oven to 350°. In a small bowl combine flour and salt and set aside. Usi
   1 cup heavy whipping cream
 \end{itemize}
 
-\hypertarget{directions-86}{%
-\subsection*{Directions}\label{directions-86}}
+\hypertarget{directions-82}{%
+\subsection*{Directions}\label{directions-82}}
 
 
 Combine Jell-O, pudding and liquid in a sauce pan. Stir and cook on medium heat until mixture turns clear and boils for 1 minute. Pour into bowl and chill until it thickens. Whip the cream to stiff peaks. Fold the oranges into the Jell-O mixture then fold in the whipped cream. Chill.
@@ -4241,8 +4197,8 @@ Beat together until thick. Spread on top of 2nd layer. Spread remaining cool whi
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-15}}
 
 
-\hypertarget{ingredients-87}{%
-\subsection*{Ingredients}\label{ingredients-87}}
+\hypertarget{ingredients-83}{%
+\subsection*{Ingredients}\label{ingredients-83}}
 
 
 \begin{itemize}
@@ -4269,8 +4225,8 @@ Beat together until thick. Spread on top of 2nd layer. Spread remaining cool whi
   1 cube butter or margarine - melted
 \end{itemize}
 
-\hypertarget{directions-87}{%
-\subsection*{Directions}\label{directions-87}}
+\hypertarget{directions-83}{%
+\subsection*{Directions}\label{directions-83}}
 
 
 Beat eggs. Add pumpkin and mix together. Add cloves, ginger, cinnamon, salt, sugar, and evaporated milk. Pour into 9x13 pan. Sprinkle yellow cake mi on top (dry). Drizzle 1 cube melted butter over cake mix. Bake 325° for 60 minutes
@@ -4285,8 +4241,8 @@ Beat eggs. Add pumpkin and mix together. Add cloves, ginger, cinnamon, salt, sug
 \subsection*{Chef: Lori Hilton}\label{chef-lori-hilton-5}}
 
 
-\hypertarget{ingredients-88}{%
-\subsection*{Ingredients}\label{ingredients-88}}
+\hypertarget{ingredients-84}{%
+\subsection*{Ingredients}\label{ingredients-84}}
 
 
 \begin{itemize}
@@ -4325,8 +4281,8 @@ Beat eggs. Add pumpkin and mix together. Add cloves, ginger, cinnamon, salt, sug
   1/4 cup powdered sugar - optonal
 \end{itemize}
 
-\hypertarget{directions-88}{%
-\subsection*{Directions}\label{directions-88}}
+\hypertarget{directions-84}{%
+\subsection*{Directions}\label{directions-84}}
 
 
 Preheat oven to 375°. Grease 15x10 jelly-roll pan; line with wax paper. Grease and flour paper. Sprinkle towel with powdered sugar. Combine flour, baking powder, baking soda, cinnamon, cloves and salt in small bowl. Beat eggs and sugar in large mixer bowl until thick. Beat in pumpkin. Stir in flour mixture. Spread evenly into prepared pan. Sprinkle with nuts. Bake for 13-15 minutes or until top of cake springs back when touched. Immediately loosen and turn cake onto prepared towel. Carefully peel off paper. Roll up cake and towel together, starting with narrow end. Cool on wire rack. Beat cream cheese, powdered sugar, butter and vanilla extract in small mixer bowl until smooth. Carefully unroll cake; remove towel. Spread cream cheese mixture over cake. Re-roll cake. Wrap in plastic wrap and refrigerate at least on hour. Sprinkle with powdered sugar before serving.
@@ -4341,8 +4297,8 @@ Preheat oven to 375°. Grease 15x10 jelly-roll pan; line with wax paper. Grease 
 \subsection*{Chef: Found on the Libby's can}\label{chef-found-on-the-libbys-can}}
 
 
-\hypertarget{ingredients-89}{%
-\subsection*{Ingredients}\label{ingredients-89}}
+\hypertarget{ingredients-85}{%
+\subsection*{Ingredients}\label{ingredients-85}}
 
 
 \begin{itemize}
@@ -4369,8 +4325,8 @@ Preheat oven to 375°. Grease 15x10 jelly-roll pan; line with wax paper. Grease 
   whipped cream or CoolWhip - topping optional
 \end{itemize}
 
-\hypertarget{directions-89}{%
-\subsection*{Directions}\label{directions-89}}
+\hypertarget{directions-85}{%
+\subsection*{Directions}\label{directions-85}}
 
 
 Mix sugar, salt cinnamon, ginger and cloves in small b owl. Beat eggs in large bowl. Stir in pumpkin and sugar-spice mixture. Gradually stir in evaporated milk. Bake in preheated 425° oven for 15 minutes, reduce heat to 350° and bake 40-50 minutes, or until knife comes out clean. Top with whipped cream. Serves 1 to 8 people.
@@ -4385,8 +4341,8 @@ Mix sugar, salt cinnamon, ginger and cloves in small b owl. Beat eggs in large b
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-31}}
 
 
-\hypertarget{ingredients-90}{%
-\subsection*{Ingredients}\label{ingredients-90}}
+\hypertarget{ingredients-86}{%
+\subsection*{Ingredients}\label{ingredients-86}}
 
 
 \begin{itemize}
@@ -4463,8 +4419,8 @@ Mix all ingredients together very well.
 \subsection*{Chef: Rebecca Bright}\label{chef-rebecca-bright-7}}
 
 
-\hypertarget{directions-90}{%
-\subsection*{Directions}\label{directions-90}}
+\hypertarget{directions-86}{%
+\subsection*{Directions}\label{directions-86}}
 
 
 One of the most important parts of Trifle is the BOWL you will make it in. Choose a deep clear glass bowl so that you can see all the beautiful colorful layers. Select at least 2 contrasting Jell-O colors; three layers would be better if you have room. Make sure you make it the night before the dinner event, or start early in the morning so that it has ample time to setup. Individual servings can be prepared in clear cups in the same manor.
@@ -4525,42 +4481,6 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{more-4}{%
-\section*{MORE}\label{more-4}}
-
-
-\hypertarget{chef-who-4}{%
-\subsection*{Chef: who}\label{chef-who-4}}
-
-
-\hypertarget{ingredients-91}{%
-\section*{\#\#\# Ingredients}\label{ingredients-91}}
-
-
-\hypertarget{directions-91}{%
-\subsection*{Directions}\label{directions-91}}
-
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{more-5}{%
-\section*{MORE}\label{more-5}}
-
-
-\hypertarget{chef-who-5}{%
-\subsection*{Chef: who}\label{chef-who-5}}
-
-
-\hypertarget{ingredients-92}{%
-\section*{\#\#\# Ingredients}\label{ingredients-92}}
-
-
-\hypertarget{directions-92}{%
-\subsection*{Directions}\label{directions-92}}
-
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \hypertarget{Cookies}{%
 \chapter{Cookies and Candy}\label{Cookies}}
 
@@ -4576,8 +4496,8 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
 \subsection*{Chef: Roberta Spencer/allrecipes}\label{chef-roberta-spencerallrecipes}}
 
 
-\hypertarget{ingredients-93}{%
-\subsection*{Ingredients}\label{ingredients-93}}
+\hypertarget{ingredients-87}{%
+\subsection*{Ingredients}\label{ingredients-87}}
 
 
 \begin{itemize}
@@ -4606,8 +4526,8 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
   1 cup chopped walnuts - optional
 \end{itemize}
 
-\hypertarget{directions-93}{%
-\subsection*{Directions}\label{directions-93}}
+\hypertarget{directions-87}{%
+\subsection*{Directions}\label{directions-87}}
 
 
 \begin{enumerate}
@@ -4631,8 +4551,8 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-32}}
 
 
-\hypertarget{ingredients-94}{%
-\subsection*{Ingredients}\label{ingredients-94}}
+\hypertarget{ingredients-88}{%
+\subsection*{Ingredients}\label{ingredients-88}}
 
 
 \begin{itemize}
@@ -4665,8 +4585,8 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
   2 teaspoons pure vanilla extract
 \end{itemize}
 
-\hypertarget{directions-94}{%
-\subsection*{Directions}\label{directions-94}}
+\hypertarget{directions-88}{%
+\subsection*{Directions}\label{directions-88}}
 
 
 \begin{enumerate}
@@ -4698,8 +4618,8 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
 \subsection*{Chef: Debbie Wescott}\label{chef-debbie-wescott-5}}
 
 
-\hypertarget{ingredients-95}{%
-\subsection*{Ingredients}\label{ingredients-95}}
+\hypertarget{ingredients-89}{%
+\subsection*{Ingredients}\label{ingredients-89}}
 
 
 \begin{itemize}
@@ -4720,8 +4640,8 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
   4 tablespoons peanut butter
 \end{itemize}
 
-\hypertarget{directions-95}{%
-\subsection*{Directions}\label{directions-95}}
+\hypertarget{directions-89}{%
+\subsection*{Directions}\label{directions-89}}
 
 
 Place chocolate chips, peanut butter, oats and vanilla in a large bowl. Combine margarine, milk and sugar in saucepan and bring to a boil for about 1 minute. Combine hot mixture with dry mixture, stir well. Drop each cookie by spoonfuls on wax paper lined cookie sheet and cool or refrigerate.
@@ -4736,8 +4656,8 @@ Place chocolate chips, peanut butter, oats and vanilla in a large bowl. Combine 
 \subsection*{Chef: Debbie Wescott}\label{chef-debbie-wescott-6}}
 
 
-\hypertarget{ingredients-96}{%
-\subsection*{Ingredients}\label{ingredients-96}}
+\hypertarget{ingredients-90}{%
+\subsection*{Ingredients}\label{ingredients-90}}
 
 
 \begin{itemize}
@@ -4752,8 +4672,8 @@ Place chocolate chips, peanut butter, oats and vanilla in a large bowl. Combine 
   cream cheese frosting - optinal
 \end{itemize}
 
-\hypertarget{directions-96}{%
-\subsection*{Directions}\label{directions-96}}
+\hypertarget{directions-90}{%
+\subsection*{Directions}\label{directions-90}}
 
 
 Mix cake mix and pumpkin together until well blended. Add chocolate chips and the balance of the ingredients. Drop by rounded spoonfuls onto cookie sheet. Bake 13-15 minutes at 350° Cool before removing rom cookie sheet. Frost with cream cheese frosting. Medium scoop makes about 6 dozen.
@@ -4768,8 +4688,8 @@ Mix cake mix and pumpkin together until well blended. Add chocolate chips and th
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-33}}
 
 
-\hypertarget{ingredients-97}{%
-\subsection*{Ingredients}\label{ingredients-97}}
+\hypertarget{ingredients-91}{%
+\subsection*{Ingredients}\label{ingredients-91}}
 
 
 \begin{itemize}
@@ -4788,8 +4708,8 @@ Mix cake mix and pumpkin together until well blended. Add chocolate chips and th
   6oz semisweet - or whte choclate drops (more if needed)
 \end{itemize}
 
-\hypertarget{directions-97}{%
-\subsection*{Directions}\label{directions-97}}
+\hypertarget{directions-91}{%
+\subsection*{Directions}\label{directions-91}}
 
 
 Wash fruit and ``score'' (peel into quarters). Remove sections of peels and cut into uniform strips, about 3/8 `` wide to make about 3 cups of peels. In large saucepan, bring peels and 6 cups water to a boil; boil for 10 minutes. Drain, rinse peels and repeat process with 6 cups fresh water. In large saucepan, bring 1 1/2 cups sugar, 1/2 cup honey and 1 3/4 cups water to a boil for 1 minute. Add drained peels and simmer 40-45 minutes, stirring frequently to prevent sticking. Drain peels well for about 10 minutes. Place remaining sugar in a small bowl. Toss drained peels with sugar until well coated. Spread peels on wax paper to dry. Peels must be very dry for chocolate to adhere. In the top of a double boiler or in microwave, melt chocolate, stirring occasionally. Dip two-thirds of each peel strip into melted chocolate and place on waxed paper. After chocolate has set, store dipped peels in an airtight container in cool, dry, place. Makes 60 to 80 candied peels.
@@ -4804,8 +4724,8 @@ Wash fruit and ``score'' (peel into quarters). Remove sections of peels and cut 
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-34}}
 
 
-\hypertarget{ingredients-98}{%
-\subsection*{Ingredients}\label{ingredients-98}}
+\hypertarget{ingredients-92}{%
+\subsection*{Ingredients}\label{ingredients-92}}
 
 
 \begin{itemize}
@@ -4824,8 +4744,8 @@ Wash fruit and ``score'' (peel into quarters). Remove sections of peels and cut 
   1 cup your favorite nuts - optional, I use pecan halves
 \end{itemize}
 
-\hypertarget{directions-98}{%
-\subsection*{Directions}\label{directions-98}}
+\hypertarget{directions-92}{%
+\subsection*{Directions}\label{directions-92}}
 
 
 Combine sugar, margarine, corn syrup and vanilla in a saucepan. Place over medium heat and mix to boil, stirring constantly until mixture begins to turn light caramel color. Remove from heat, add 1 cup nuts if desired. Pour hot mixture over 4 quarts popped popcorn, quickly stir until all popcorn is covered. Spread out on table or surface that can take heat, and let cool, when cool break apart and eat as a snack.
@@ -4840,8 +4760,8 @@ Combine sugar, margarine, corn syrup and vanilla in a saucepan. Place over mediu
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-35}}
 
 
-\hypertarget{ingredients-99}{%
-\subsection*{Ingredients}\label{ingredients-99}}
+\hypertarget{ingredients-93}{%
+\subsection*{Ingredients}\label{ingredients-93}}
 
 
 \begin{itemize}
@@ -4858,8 +4778,8 @@ Combine sugar, margarine, corn syrup and vanilla in a saucepan. Place over mediu
   1/2 teaspoon baking soda
 \end{itemize}
 
-\hypertarget{directions-99}{%
-\subsection*{Directions}\label{directions-99}}
+\hypertarget{directions-93}{%
+\subsection*{Directions}\label{directions-93}}
 
 
 Put popped popcorn in large brown paper bag. Microwave 1 cup brown sugar, 1/2 cup margarine, 1/4 cup Karo syrup in a large bowl on high for 3 minutes. Stir, microwave 2 additional minutes on high. Make sure it is rolling boiling. Stir in ½ teaspoon baking soda until mixed well and fluffy. Pour over popcorn in brown bag. Roll bag closed. Microwave 1 1/2 minutes on high. Stir and shake. Microwave 1 minute on high, shake. Microwave 1 minute on high. Yum, yum!
@@ -4874,8 +4794,8 @@ Put popped popcorn in large brown paper bag. Microwave 1 cup brown sugar, 1/2 cu
 \subsection*{Chef:Patricia Blair}\label{chefpatricia-blair}}
 
 
-\hypertarget{ingredients-100}{%
-\subsection*{Ingredients}\label{ingredients-100}}
+\hypertarget{ingredients-94}{%
+\subsection*{Ingredients}\label{ingredients-94}}
 
 
 \begin{itemize}
@@ -4898,8 +4818,8 @@ Put popped popcorn in large brown paper bag. Microwave 1 cup brown sugar, 1/2 cu
   1 teaspoon vanilla
 \end{itemize}
 
-\hypertarget{directions-100}{%
-\subsection*{Directions}\label{directions-100}}
+\hypertarget{directions-94}{%
+\subsection*{Directions}\label{directions-94}}
 
 
 Place the popped popcorn into two shallow greased baking pans. Yo may use roasting pan, jelly roll pans or disposable roasting pans. Add the peanuts to the popped corn if using. Set aside. Preheat the oven to 250°. Combine the brown sugar, corn syrup, butter and salt in a saucepan. Bring to a boil over medium heat, stirring enough to blend. Once the mixture begins to boil, foil for 5 minutes while stirring constantly. Remove from the heat, and stir in the baking soda and vanilla. The mixture will be light and foamy. Immediately pour over the popcorn in the pans, and stir to coat. Don't worry too much at this point about getting all of the corn coated. Bake for 1 hour, removing the pans, and giving them each a good stir every 15 minutes. Line the counter top with waxed paper. Dump the corn out onto the waxed paper and separate the pieces. Allow to cool completely, then store in airtight containers or resalable bags.
@@ -4912,8 +4832,8 @@ Place the popped popcorn into two shallow greased baking pans. Yo may use roasti
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-16}}
 
 
-\hypertarget{ingredients-101}{%
-\subsection*{Ingredients}\label{ingredients-101}}
+\hypertarget{ingredients-95}{%
+\subsection*{Ingredients}\label{ingredients-95}}
 
 
 \begin{itemize}
@@ -4932,8 +4852,8 @@ Place the popped popcorn into two shallow greased baking pans. Yo may use roasti
   1 teaspoon vanilla
 \end{itemize}
 
-\hypertarget{directions-101}{%
-\subsection*{Directions}\label{directions-101}}
+\hypertarget{directions-95}{%
+\subsection*{Directions}\label{directions-95}}
 
 
 Melt butter in saucepan. Add brown sugar and salt. Stir until combined. While cooking over medium heat, stir in corn syrup and mix well. Gradually add milk stirring constantly. Heat until candy reaches firm ball state 245° on candy thermometer. About 12-15 minutes. Remove from heat, stir in vanilla. Pour into a buttered square 9'' pam. Cool and cut into squares. This recipe makes about 2 1/2 pounds. I precut wax paper and wrap the caramels up in them.
@@ -4948,8 +4868,8 @@ Melt butter in saucepan. Add brown sugar and salt. Stir until combined. While co
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-36}}
 
 
-\hypertarget{ingredients-102}{%
-\subsection*{Ingredients}\label{ingredients-102}}
+\hypertarget{ingredients-96}{%
+\subsection*{Ingredients}\label{ingredients-96}}
 
 
 \begin{itemize}
@@ -4972,8 +4892,8 @@ Melt butter in saucepan. Add brown sugar and salt. Stir until combined. While co
   May add these variations: 1 pound chocolate chips, or M\&M plain, 1 pound bag of shredded coconut
 \end{itemize}
 
-\hypertarget{directions-102}{%
-\subsection*{Directions}\label{directions-102}}
+\hypertarget{directions-96}{%
+\subsection*{Directions}\label{directions-96}}
 
 
 Mix all ingredients together. Drop buy large tablespoons or small ice-cream scoop, platen; bake 12 minutes at 350°. Don't overbake -- they turn hard on an ungreased cookie sheet. Let set on cookie sheet 5-10 minutes to cool before removing off the pan.
@@ -4988,8 +4908,8 @@ Mix all ingredients together. Drop buy large tablespoons or small ice-cream scoo
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-17}}
 
 
-\hypertarget{ingredients-103}{%
-\subsection*{Ingredients}\label{ingredients-103}}
+\hypertarget{ingredients-97}{%
+\subsection*{Ingredients}\label{ingredients-97}}
 
 
 \begin{itemize}
@@ -5012,8 +4932,8 @@ Mix all ingredients together. Drop buy large tablespoons or small ice-cream scoo
   1/2 cup sugar (to roll doug in)
 \end{itemize}
 
-\hypertarget{directions-103}{%
-\subsection*{Directions}\label{directions-103}}
+\hypertarget{directions-97}{%
+\subsection*{Directions}\label{directions-97}}
 
 
 Preheat oven to 375°. Sift together flour, baking soda, and salt. Set aside. In medium bowl cream together butter, peanut butter, ½ cup white sugar, and brown sugar until smooth. Beat in egg then stir in vanilla. Gradually blend in sifted ingredients. Shape dough into 1 inch balls and roll in sugar.
@@ -5028,8 +4948,8 @@ Preheat oven to 375°. Sift together flour, baking soda, and salt. Set aside. In
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-37}}
 
 
-\hypertarget{ingredients-104}{%
-\subsection*{Ingredients}\label{ingredients-104}}
+\hypertarget{ingredients-98}{%
+\subsection*{Ingredients}\label{ingredients-98}}
 
 
 \begin{itemize}
@@ -5050,8 +4970,8 @@ Preheat oven to 375°. Sift together flour, baking soda, and salt. Set aside. In
   1 8oz Hershey's sweet chocolate bar
 \end{itemize}
 
-\hypertarget{directions-104}{%
-\subsection*{Directions}\label{directions-104}}
+\hypertarget{directions-98}{%
+\subsection*{Directions}\label{directions-98}}
 
 
 Let butter melt in a heavy kettle. (You can substitute butter for margarine. I have always used butter.)Then add Karo syrup, water, and sugar. Stir until sugar is dissolved on medium hear. When it starts to boil, stir occasionally while you do the following: Select a cookie sheet with sides. Butter the sheet, then spread chocolate chips evenly in the pan. Cover with nuts. Stir candy from bottom of pan frequently. When it begins to turn tan, put in dandy thermometer. You have to stir more often or it will burn. When mixture reaches 280°, pour thinly and evenly over chips and nuts. This has to be done quickly or you will not be able to spread the candy evenly across the pan. Cover all areas (a measuring cup with a pour edge works well or best to pour directly from the saucepan. Some minor spreading can be done to even out. As soon as candy is poured and spread, to it with chunks of the chocolate bar which will melt and then can be spread across the entire surface. When slightly cool, sprinkle 1 cup of finely chopped walnuts on the surface. Let cool. Set preferably overnight, then break in chunks and store in quart jars. This is better when aged 2 to 3 days. It will keep for a good amount of time. This candy has become a family tradition at Christmas time. I usually make three or more batches depending on how much I plan to give as gifts.
@@ -5066,8 +4986,8 @@ Let butter melt in a heavy kettle. (You can substitute butter for margarine. I h
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-38}}
 
 
-\hypertarget{ingredients-105}{%
-\subsection*{Ingredients}\label{ingredients-105}}
+\hypertarget{ingredients-99}{%
+\subsection*{Ingredients}\label{ingredients-99}}
 
 
 \begin{itemize}
@@ -5082,8 +5002,8 @@ Let butter melt in a heavy kettle. (You can substitute butter for margarine. I h
   1 pound nuts - walnuts, pecans, or almonds
 \end{itemize}
 
-\hypertarget{directions-105}{%
-\subsection*{Directions}\label{directions-105}}
+\hypertarget{directions-99}{%
+\subsection*{Directions}\label{directions-99}}
 
 
 Bring to boil 1 cup sugar, 1/3 cup evaporated milk, 1/4 teaspoon cinnamon. Boil about 2 minutes. Remove from heat and stir in 1 pound of nuts, Lay on waked paper to cool.
@@ -5098,8 +5018,8 @@ Bring to boil 1 cup sugar, 1/3 cup evaporated milk, 1/4 teaspoon cinnamon. Boil 
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-18}}
 
 
-\hypertarget{ingredients-106}{%
-\subsection*{Ingredients}\label{ingredients-106}}
+\hypertarget{ingredients-100}{%
+\subsection*{Ingredients}\label{ingredients-100}}
 
 
 \begin{itemize}
@@ -5120,8 +5040,8 @@ Bring to boil 1 cup sugar, 1/3 cup evaporated milk, 1/4 teaspoon cinnamon. Boil 
   1 teaspoon salt
 \end{itemize}
 
-\hypertarget{directions-106}{%
-\subsection*{Directions}\label{directions-106}}
+\hypertarget{directions-100}{%
+\subsection*{Directions}\label{directions-100}}
 
 
 In a large bowl, cream together butter and sugar until smooth. Beat in eggs and vanilla. Stir in the flour, baking powder and salt. Cover, and chill dough for at least one hour (or overnightr). Preheat oven to 400°. Roll out dough on floured surface 1/4 to 3/8 inch thick. Cut into shapes with any cookie cutter. Place cookies 1 inch apart on ungreased cookie sheets. Bake 6 to 8 minutes in preheated oven. Cool completely. TIP: Roll cookie dough out on parchment paper and cut out shapes with cookie cutter. Remove dough around cut outs and transfer parchment paper ont cookie sheet. This way you don't ruin the cookies by peeling them off the counter and you can reuse the parchment paper for your next batch.
@@ -5136,8 +5056,8 @@ In a large bowl, cream together butter and sugar until smooth. Beat in eggs and 
 \subsection*{Chef: Jennifer Gustin}\label{chef-jennifer-gustin-13}}
 
 
-\hypertarget{ingredients-107}{%
-\subsection*{Ingredients}\label{ingredients-107}}
+\hypertarget{ingredients-101}{%
+\subsection*{Ingredients}\label{ingredients-101}}
 
 
 \begin{itemize}
@@ -5164,8 +5084,8 @@ In a large bowl, cream together butter and sugar until smooth. Beat in eggs and 
   1 - 2 cups chocolate chips or chocolate chunks
 \end{itemize}
 
-\hypertarget{directions-107}{%
-\subsection*{Directions}\label{directions-107}}
+\hypertarget{directions-101}{%
+\subsection*{Directions}\label{directions-101}}
 
 
 \begin{enumerate}
@@ -5191,8 +5111,8 @@ In a large bowl, cream together butter and sugar until smooth. Beat in eggs and 
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-19}}
 
 
-\hypertarget{ingredients-108}{%
-\subsection*{Ingredients}\label{ingredients-108}}
+\hypertarget{ingredients-102}{%
+\subsection*{Ingredients}\label{ingredients-102}}
 
 
 \begin{itemize}
@@ -5221,85 +5141,11 @@ In a large bowl, cream together butter and sugar until smooth. Beat in eggs and 
   3/4 cup white chocolate chips
 \end{itemize}
 
-\hypertarget{directions-108}{%
-\subsection*{Directions}\label{directions-108}}
+\hypertarget{directions-102}{%
+\subsection*{Directions}\label{directions-102}}
 
 
 Heat oven to 300°. In a medium bowl, combine the flour, baking soda and salt. In a large bowl with an electric mixer, cream the butter and sugar. Add the eggs, molasses, and vanilla. Blend well. Add the flour mixture and mix to blend. Stir in the pecans, butterscotch chips and white chocolate chips. Do not overmix. Drop the cookie dough by rounded tablespoons 2 inches apart onto an ungreased cookie sheet. Bake for 1-20 minutes or until set. Transfer to wire racks to cool.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{more-6}{%
-\section*{MORE}\label{more-6}}
-
-
-\hypertarget{chef-who-6}{%
-\subsection*{Chef: who}\label{chef-who-6}}
-
-
-\hypertarget{ingredients-109}{%
-\section*{\#\#\# Ingredients}\label{ingredients-109}}
-
-
-\hypertarget{directions-109}{%
-\subsection*{Directions}\label{directions-109}}
-
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{more-7}{%
-\section*{MORE}\label{more-7}}
-
-
-\hypertarget{chef-who-7}{%
-\subsection*{Chef: who}\label{chef-who-7}}
-
-
-\hypertarget{ingredients-110}{%
-\section*{\#\#\# Ingredients}\label{ingredients-110}}
-
-
-\hypertarget{directions-110}{%
-\subsection*{Directions}\label{directions-110}}
-
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{more-8}{%
-\section*{MORE}\label{more-8}}
-
-
-\hypertarget{chef-who-8}{%
-\subsection*{Chef: who}\label{chef-who-8}}
-
-
-\hypertarget{ingredients-111}{%
-\section*{\#\#\# Ingredients}\label{ingredients-111}}
-
-
-\hypertarget{directions-111}{%
-\subsection*{Directions}\label{directions-111}}
-
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{more-9}{%
-\section*{MORE}\label{more-9}}
-
-
-\hypertarget{chef-who-9}{%
-\subsection*{Chef: who}\label{chef-who-9}}
-
-
-\hypertarget{ingredients-112}{%
-\section*{\#\#\# Ingredients}\label{ingredients-112}}
-
-
-\hypertarget{directions-112}{%
-\subsection*{Directions}\label{directions-112}}
-
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -5318,8 +5164,8 @@ Heat oven to 300°. In a medium bowl, combine the flour, baking soda and salt. I
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-39}}
 
 
-\hypertarget{ingredients-113}{%
-\subsection*{Ingredients}\label{ingredients-113}}
+\hypertarget{ingredients-103}{%
+\subsection*{Ingredients}\label{ingredients-103}}
 
 
 \begin{itemize}
@@ -5332,8 +5178,8 @@ Heat oven to 300°. In a medium bowl, combine the flour, baking soda and salt. I
   Salt and pepper to taste
 \end{itemize}
 
-\hypertarget{directions-113}{%
-\subsection*{Directions}\label{directions-113}}
+\hypertarget{directions-103}{%
+\subsection*{Directions}\label{directions-103}}
 
 
 Pour broth and drippings into a saucepan and heat on low. Mix cornstarch with some cold water and add t drippings and broth stirring while adding. If it is not thick enough you may add more cornstarch mixed with water.
@@ -5346,8 +5192,8 @@ Pour broth and drippings into a saucepan and heat on low. Mix cornstarch with so
 \subsection*{Chef: Alvin Spencer}\label{chef-alvin-spencer-1}}
 
 
-\hypertarget{ingredients-114}{%
-\subsection*{Ingredients}\label{ingredients-114}}
+\hypertarget{ingredients-104}{%
+\subsection*{Ingredients}\label{ingredients-104}}
 
 
 \begin{itemize}
@@ -5364,8 +5210,8 @@ Pour broth and drippings into a saucepan and heat on low. Mix cornstarch with so
   8oz black pepper
 \end{itemize}
 
-\hypertarget{directions-114}{%
-\subsection*{Directions}\label{directions-114}}
+\hypertarget{directions-104}{%
+\subsection*{Directions}\label{directions-104}}
 
 
 Mix all ingredients together. Store in a shaker bottle. Spread generously on meat and cook, cook, cook!
@@ -5380,8 +5226,8 @@ Mix all ingredients together. Store in a shaker bottle. Spread generously on mea
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-40}}
 
 
-\hypertarget{ingredients-115}{%
-\subsection*{Ingredients}\label{ingredients-115}}
+\hypertarget{ingredients-105}{%
+\subsection*{Ingredients}\label{ingredients-105}}
 
 
 \begin{itemize}
@@ -5404,8 +5250,8 @@ Mix all ingredients together. Store in a shaker bottle. Spread generously on mea
   Onion - diced - optional
 \end{itemize}
 
-\hypertarget{directions-115}{%
-\subsection*{Directions}\label{directions-115}}
+\hypertarget{directions-105}{%
+\subsection*{Directions}\label{directions-105}}
 
 
 Put all ingredients in a saucepan and bring to a boil. Boil for about 3 minutes then thicken with corn starch and water mixture to desired consistency; much thicker for chicken, also add one chopped onion to sauce for chicken. Excellent with pork roast, spareribs, and chicken. With pork roast and spareribs, brown the meat in 350° oven until well browned, then cover with sauce, baste occasionally. Cook for at least one hour. For chicken just arrange chicken pieces in baking dish. Pour thick sauce over, it will thin as chicken cooks. Bake at 350° until done, about 1 1/2 hours. Suggest lining pan with foil as this is a good pan sticker. It is also yummy!
@@ -5420,8 +5266,8 @@ Put all ingredients in a saucepan and bring to a boil. Boil for about 3 minutes 
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-20}}
 
 
-\hypertarget{ingredients-116}{%
-\subsection*{Ingredients}\label{ingredients-116}}
+\hypertarget{ingredients-106}{%
+\subsection*{Ingredients}\label{ingredients-106}}
 
 
 \begin{itemize}
@@ -5436,8 +5282,8 @@ Put all ingredients in a saucepan and bring to a boil. Boil for about 3 minutes 
   2 cups powdered sugar
 \end{itemize}
 
-\hypertarget{directions-116}{%
-\subsection*{Directions}\label{directions-116}}
+\hypertarget{directions-106}{%
+\subsection*{Directions}\label{directions-106}}
 
 
 Melt butter in 2 quart saucepan over medium heat. Stir in brown sugar. Heat to boiling, stir constantly; reduce heat to low. Boil and stir 2 minutes. Stir in bilk. Heat to boiling; remove from heat. Cool to lukewarm, about 30 minutes. Gradually stir in powdered sugar. Place saucepan of frosting in bowl of cold water. Beat with spoon until smooth and spreadable. If frosting becomes too stiff, stir in additional milk, 1 teaspoon at a time, or heat over low heat, stirring constantly. Frosts 9x13 inch cake, or fill and frosts an 8 or 9 inch layer cake.
@@ -5452,8 +5298,8 @@ Melt butter in 2 quart saucepan over medium heat. Stir in brown sugar. Heat to b
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-21}}
 
 
-\hypertarget{ingredients-117}{%
-\subsection*{Ingredients}\label{ingredients-117}}
+\hypertarget{ingredients-107}{%
+\subsection*{Ingredients}\label{ingredients-107}}
 
 
 \begin{itemize}
@@ -5466,8 +5312,8 @@ Melt butter in 2 quart saucepan over medium heat. Stir in brown sugar. Heat to b
   sea salt - for sprinkling
 \end{itemize}
 
-\hypertarget{directions-117}{%
-\subsection*{Directions}\label{directions-117}}
+\hypertarget{directions-107}{%
+\subsection*{Directions}\label{directions-107}}
 
 
 Preheat oven to 275°. Remove the ribs from the kale and cut into 1 ½ inch pieces. Lay on baking sheet and toss with olive oil and salt. Bake until crisp, turning the leaves halfway through, about 20 minutes. Serve as finger food. It's yummy to sprinkle vinegar on the kale also.
@@ -5480,8 +5326,8 @@ Preheat oven to 275°. Remove the ribs from the kale and cut into 1 ½ inch piec
 \subsection*{Chef: Roberta Spencer}\label{chef-roberta-spencer-41}}
 
 
-\hypertarget{ingredients-118}{%
-\subsection*{Ingredients}\label{ingredients-118}}
+\hypertarget{ingredients-108}{%
+\subsection*{Ingredients}\label{ingredients-108}}
 
 
 \begin{itemize}
@@ -5492,8 +5338,8 @@ Preheat oven to 275°. Remove the ribs from the kale and cut into 1 ½ inch piec
   Lemon juice
 \end{itemize}
 
-\hypertarget{directions-118}{%
-\subsection*{Directions}\label{directions-118}}
+\hypertarget{directions-108}{%
+\subsection*{Directions}\label{directions-108}}
 
 
 Slice apples length wise every 1/4 in. Dip in lemon juice and place on cookie rack or dehydrator tray (air needs to circulate around apple). Dry in dehydrator o in oven on lowest oven temperature until dried. Blue on wooden embroidery hoop and attach a pretty Christmas bow.
@@ -5508,8 +5354,8 @@ Slice apples length wise every 1/4 in. Dip in lemon juice and place on cookie ra
 \subsection*{Chef: Patricia Blair}\label{chef-patricia-blair-22}}
 
 
-\hypertarget{ingredients-119}{%
-\subsection*{Ingredients}\label{ingredients-119}}
+\hypertarget{ingredients-109}{%
+\subsection*{Ingredients}\label{ingredients-109}}
 
 
 \begin{itemize}
@@ -5528,11 +5374,68 @@ Slice apples length wise every 1/4 in. Dip in lemon juice and place on cookie ra
   Food coloring or unsweetened Kool-Aid packet
 \end{itemize}
 
-\hypertarget{directions-119}{%
-\subsection*{Directions}\label{directions-119}}
+\hypertarget{directions-109}{%
+\subsection*{Directions}\label{directions-109}}
 
 
 In a large saucepan, mix all ingredients together cooking on medium low heat. Stir frequently until the dough pulls away from the side of the pan and becomes too thick to stir (about 10-15 minutes). Remove from heat and let cool until it can be handled. Place on counter and knead several times until it becomes smooth. Store in an air-tight container.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{recipe-template}{%
+\chapter*{RECIPE TEMPLATE}\label{recipe-template}}
+
+
+\hypertarget{example-recipe}{%
+\section*{EXAMPLE RECIPE}\label{example-recipe}}
+
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{knitr}\OperatorTok{::}\KeywordTok{include_graphics}\NormalTok{(}\KeywordTok{rep}\NormalTok{(}\StringTok{'images/macarons.jpg'}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{figure}
+\includegraphics[width=0.328\linewidth]{images/macarons} \caption{A pretty picture of tasty food.}\label{fig:example-macarons}
+\end{figure}
+
+\hypertarget{chef-ronald-mcduck}{%
+\subsection*{Chef: Ronald McDuck}\label{chef-ronald-mcduck}}
+
+
+\hypertarget{ingredients-110}{%
+\subsection*{Ingredients}\label{ingredients-110}}
+
+
+\begin{itemize}
+\tightlist
+\item
+  cake
+\item
+  hamburgers
+\item
+  pants
+\end{itemize}
+
+\hypertarget{directions-110}{%
+\subsection*{Directions}\label{directions-110}}
+
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  eat cake
+\item
+  eat hamburgers
+\item
+  buy new pants
+\item
+  copy this template to add new recipes, upload an image to the images folder if you'd like
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \hypertarget{notes}{%
 \chapter*{NOTES}\label{notes}}

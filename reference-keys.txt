@@ -1,3 +1,4 @@
+fig:example-macarons
 introduction
 appetizers
 salad
