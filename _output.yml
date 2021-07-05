@@ -4,7 +4,6 @@ bookdown::epub_book: default
 bookdown::gitbook:
   css: style.css
   config:
-    download: ["spencerfamilycookbook.pdf", "spencerfamilycookbook.epub"]
     toc:
       before: |
         <li><a href="./">Spencer Family Cookbook</a></li>
