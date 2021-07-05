@@ -532,17 +532,6 @@ Brown and drain sausage and set aside. In a large pot add water, broth, potatoes
 
 ---
 
-## MORE {-}
-
-### Chef: Who {-}
-
-### Ingredients {-}
-- 2 T
-
-### Directions {-}
-
----
-
 # Vegetables & Side  Dishes {#Sides}
 
 ---
@@ -771,17 +760,6 @@ Wash and chop the vegetables into 1/2 to 3/4 inch pieces for even cooking. Do no
 
 ### Directions {-}
 Cook the spinach and drain well. Beat eggs, add combined milk, butter, onion, parsley flakes and Worcestershire sauce, salt, thyme and nutmeg and mix well. Combine spinach and cheese, add egg mixture and mix all well. Pour into a greased shallow pan 9x13. Bake at 325° for 1 hour. Let cool a minute and cut into squares and serve. 12 servings
-
----
-
-## MORE {-}
-
-### Chef: Who {-}
-
-### Ingredients {-}
-- 2 T
-
-### Directions {-}
 
 ---
 
@@ -1650,20 +1628,9 @@ Cover top with mozzarella and Parmesan cheese.  Bake at 375° until cheese is bu
 ### Directions {-}
 1)	Place the beef in a skillet over medium heat, and cook until evenly brown.  Drain grease.
 2)	Place the beef in a slow cooker, and mix in onion, celery, green bell pepper, garlic, 
-tomato puree kidney beans, and cannellini beans.  Season with chili powder, parsley, 
+tomato puree, kidney beans, and cannellini beans.  Season with chili powder, parsley, 
 salt, basil, oregano, black pepper, and hot pepper sauce.
 3)	Cover, and cook 8 hours on low.
-
----
-
-##  MORE {-}
-
-### Chef: who {-}
-
-### Ingredients {-}
-- 
-
-### Directions {-}
 
 
 ---
@@ -1804,18 +1771,6 @@ Put all dry ingredients in a large bowl.  Using your hands slowly mix in water. 
 
 ### Directions {-}
 Heat oven to 425°.  Spray 12 2 1/2” muffin cups with vegetable oil spray.  In a medium bowl, blend flour mix, xanthan gum, cornmeal, baking powder, Egg Replacer (if used), salt, baking soda, and cayenne pepper.  In a large bowl, beat the egg substitute slightly with a wire whisk.  Add the yogurt and oil and whisk.  With spoon, stir in the flour mix until just blended.  Stir in the green onions.  Spoon into prepared muffin cups.  Bake 15 minutes or until tester comes out clean.  Serve hot from the oven or cool to serve later.  Makes 12 2 1/2'” muffins.
-
----
-
-##  MORE {-}
-
-### Chef: Who {-}
-
-### Ingredients {-}
-- 
-
-### Directions {-}
-
 
 ---
 
@@ -2157,30 +2112,6 @@ Prepare custard as directed on the package. Layer mixture over the trifle. Refri
 
 ---
 
-##  MORE {-}
-
-### Chef: who {-}
-
-### Ingredients {-}
-- 
-
-### Directions {-}
-
-
----
-
-##  MORE {-}
-
-### Chef: who {-}
-
-### Ingredients {-}
-- 
-
-### Directions {-}
-
-
----
-
 # Cookies and Candy {#Cookies}
 
 ---
@@ -2512,56 +2443,6 @@ Heat oven to 300°. In a medium bowl, combine the flour, baking soda and salt. I
 
 ---
 
-##  MORE {-}
-
-### Chef: who {-}
-
-### Ingredients {-}
-- 
-
-### Directions {-}
-
-
----
-
-##  MORE {-}
-
-### Chef: who {-}
-
-### Ingredients {-}
-- 
-
-### Directions {-}
-
-
----
-
-##  MORE {-}
-
-### Chef: who {-}
-
-### Ingredients {-}
-- 
-
-### Directions {-}
-
-
----
-
-##  MORE {-}
-
-### Chef: who {-}
-
-### Ingredients {-}
-- 
-
-### Directions {-}
-
-
----
-
----
-
 # This and That {#ThisThat}
 
 ---
@@ -2687,15 +2568,27 @@ Slice apples length wise every 1/4 in. Dip in lemon juice and place on cookie ra
 In a large saucepan, mix all ingredients together cooking on medium low heat. Stir frequently until the dough pulls away from the side of the pan and becomes too thick to stir (about 10-15 minutes). Remove from heat and let cool until it can be handled. Place on counter and knead several times until it becomes smooth. Store in an air-tight container.
 
 ---
-##  MORE {-}
 
-### Chef: who {-}
+# RECIPE TEMPLATE {-}
+
+##  EXAMPLE RECIPE {-}
+
+```{r example-macarons, out.width='32.8%', fig.show='hold', fig.cap='A pretty picture of tasty food.'}
+knitr::include_graphics(rep('images/macarons.jpg'))
+```
+
+### Chef: Ronald McDuck {-}
 
 ### Ingredients {-}
-- 
+- cake
+- hamburgers
+- pants
 
 ### Directions {-}
-
+1. eat cake
+2. eat hamburgers
+3. buy new pants
+4. copy this template to add new recipes, upload an image to the images folder if you'd like
 
 ---
 
