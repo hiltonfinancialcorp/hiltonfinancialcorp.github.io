@@ -1,6 +1,6 @@
 # What is this?
 
-The Spencer Family Cookbook, online.
+Text for _Be The Bank_, and code to make it into a website, PDF, and ebook.
 
 # Notes on usage
 
