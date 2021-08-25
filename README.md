@@ -4,6 +4,8 @@ Text for _Be The Bank_, and code to make it into a website, PDF, and ebook.
 
 # Notes on usage
 
+The full reference for bookdown is available [here](https://bookdown.org/yihui/bookdown/).
+
 ## Be careful of unicode characters
 Text on the web, or in a word processing program like Word, often looks simple enough, but is actually composed of a large number of codes specifying *exactly which* version of that character the computer is supposed to process and show you. 
 
