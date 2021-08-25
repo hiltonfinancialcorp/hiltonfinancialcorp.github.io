@@ -1,5 +1,5 @@
 book_filename: "bethebankhiltonfinancialcorp"
-rmd_files: ["index.Rmd", "01-chapter.Rmd", "02-chapter.Rmd"]
+rmd_files: ["index.Rmd", "01-chapter.Rmd", "02-chapter.Rmd", "bio.Rmd"]
 delete_merged_file: true
 view: https://github.com/hiltonfinancialcorp/hiltonfinancialcorp.github.io/blob/master/%s
 edit: https://github.com/hiltonfinancialcorp/hiltonfinancialcorp.github.io/edit/master/%s
