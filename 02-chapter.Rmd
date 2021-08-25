@@ -4,13 +4,24 @@ Here's another chapter file.
 
 You can split each chapter into files, or use one big file. Whatever you'd like!
 
-When you add a chapter, go to the `***` and add it to the list of files to be included in the book, in the order you'd like them.
+When you add a chapter, go to the `_bookdown.yml` file and add it to the list of files to be included in the book, in the order you'd like them.
 
-This lets you rearrange the book easily.
+E.g.
+
+`rmd_files: ["index.Rmd", "01-chapter.Rmd, "02-chapter.Rmd"]`
+
+This lets you rearrange the book easily, by rearranging the order of items in the list:
+
+`rmd_files: ["index.Rmd", "02-chapter.Rmd, "01-chapter.Rmd"]`
 
 The file names don't really matter, 
 since you're specifying the order of files manually, 
 but most folks use the `xx-name` style.
+
+It might also make sense to not use numbers, and instead titles.
+
+`rmd_files: ["index.Rmd", "my-start.Rmd, "history-banking.Rmd"]`
+
 
 ---
 
