@@ -6,4 +6,4 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Spencer Family Cookbook</a></li>
+        <li><a href="./">Be The Bank</a></li>
