@@ -31,7 +31,7 @@ It might also make sense to not use numbers, and instead titles.
 The more `###` you add, the farther down you go into subsections. 
 See how this one got a number, because we didn't add the `{-}`?
 
-## Addng pictures {- #picturetemplate}
+## Addng pictures {-}
 
 The following code will insert a picture.
 
@@ -61,9 +61,11 @@ so it's better than using a page number or something like that.)
 
 Such nesting!
 
+Look, a [clickable link](#phototemplate) to somewhere else in the book!
+
 ---
 
-# NOTES {- #notes} 
+# NOTES {-} 
 
 Notes could go here.
 
