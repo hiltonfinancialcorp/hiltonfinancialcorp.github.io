@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>ACKNOWLEDGEMENTS / DISCLAIMERS | Be The Bank</title>
+  <title>CHAPTER TEMPLATE | Be The Bank</title>
   <meta name="description" content="You Are the Bank!" />
   <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="ACKNOWLEDGEMENTS / DISCLAIMERS | Be The Bank" />
+  <meta property="og:title" content="CHAPTER TEMPLATE | Be The Bank" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="hiltonfinancialcorp/hiltonfinancialcorp.github.io" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="ACKNOWLEDGEMENTS / DISCLAIMERS | Be The Bank" />
+  <meta name="twitter:title" content="CHAPTER TEMPLATE | Be The Bank" />
   
   <meta name="twitter:description" content="You Are the Bank!" />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="authormessage.html"/>
-<link rel="next" href="chaptershortref.html"/>
+<link rel="prev" href="chaptershortref.html"/>
+<link rel="next" href="notes.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -105,18 +105,38 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="acknowledgements-disclaimers" class="section level1 unnumbered">
-<h1>ACKNOWLEDGEMENTS / DISCLAIMERS</h1>
-<hr />
-<hr />
-<div id="acknowledgments" class="section level2 unnumbered">
-<h2>Acknowledgments</h2>
-<p>Acknowledgments go here.</p>
+<div id="chapter-template" class="section level1 unnumbered">
+<h1>CHAPTER TEMPLATE</h1>
+<p>Putting the <code>{-}</code> after the section name makes it so the chapter will not be automatically numbered.</p>
+<div id="subsection-title-1" class="section level2">
+<h2><span class="header-section-number">1.1</span> SUBSECTION TITLE</h2>
+<p>The more <code>###</code> you add, the farther down you go into subsections.
+See how this one got a number, because we didn’t add the <code>{-}</code>?</p>
 </div>
-<div id="disclaimer-1" class="section level2 unnumbered">
-<h2>Disclaimer</h2>
-<p>Disclaimer if you need one.</p>
+<div id="picturetemplate" class="section level2 unnumbered">
+<h2>Addng pictures</h2>
+<p>The following code will insert a picture.</p>
+<div class="figure"><span style="display:block;" id="fig:example-macarons"></span>
+<img src="images/macarons.jpg" alt="A pretty picture of tasty food"  />
+<p class="caption">
+Picture 1.1: A pretty picture of tasty food
+</p>
+</div>
+<p>The phrase after the first <code>r</code> must be hypenated if it’s more than one word (spaces will confuse it),
+it’s a reference you can use later if you want to point the reader to this specific image.</p>
+<p><code>fig.cap</code> allows you to add a caption.</p>
+<p><code>echo = FALSE</code> makes it so the code that inserts the picture does not show up in the final product (switch it to <code>TRUE</code> or leave it out to see what happens).</p>
+<p>the <code>knitr</code>… section contains a path to the image.
+It’s probably easiest to upload all the images in the <code>images</code> folder,
+and give them all short and easy names.</p>
+<p>(If you’re looking at the source code, notice that we added <code>#picturetemplate</code> after the <code>{-</code> part of the section title.
+This allows us to reference this section elsewhere in the book, with a clickable link, if wanted.
+If we end up changing the order of things, it will automatically detect that and correct the link and numbering for it,
+so it’s better than using a page number or something like that.)</p>
+<div id="subsubsection-title" class="section level3 unnumbered">
+<h3>SUBSUBSECTION TITLE</h3>
 <hr />
+</div>
 </div>
 </div>
             </section>
@@ -124,8 +144,8 @@
           </div>
         </div>
       </div>
-<a href="authormessage.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="chaptershortref.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="chaptershortref.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="notes.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

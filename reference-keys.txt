@@ -1,11 +1,3 @@
 fig:example-macarons
-introduction
-appetizers
-salad
-Sides
-Main
-real-style-large-batch
-Breads
-Deserts
-Cookies
-ThisThat
+chaptershortref
+subsection-title-1

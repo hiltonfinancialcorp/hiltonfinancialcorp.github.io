@@ -1,0 +1,229 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Be The Bank},
+  pdfauthor={Jack W Hilton},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{wrapfig}
+
+\title{Be The Bank}
+\author{Jack W Hilton}
+\date{2021-08-25}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{disclaimer}{%
+\chapter*{Disclaimer}\label{disclaimer}}
+
+
+The information in this book is not intended to serve as legal or professional advice. It is provided with the understanding that the author and the publisher are not engaged in rendering legal, accounting, or other professional service.
+
+The reader should not rely on the material in this text. If legal, professional, or expert assistance is required, the services of a competent professional should be sought.
+
+© Copyright 2020 by Jack Hilton
+
+All rights reserved.
+
+\begin{quote}
+Jack Hilton, President
+Hilton Financial Corporation
+11024 N 28th Drive, Suite 170
+Phoenix, AZ 85029-4329
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{acknowledgements}{%
+\chapter*{Acknowledgements}\label{acknowledgements}}
+
+
+For this book the following references works were used: The Chicago Manual of Style (CMS; 17th edition), Words Into Type (3rd edition), and Merriam-Webster's Collegiate Dictionary (11th edition, online).
+
+This book has been in the making for several years. I wish to thank all of those who have helped in anyway in editing, comments, and contributions to the text of this book.
+
+Stephen Haggard reviewed an early manuscript of this work and made several valuable comments. Steve was with me when I was a director and chairman of Rocky Mountain Bank. We were grooming him to be the next president. Banks always need a succession plan, and Steve was ours. He is now the president, CEO, and director of Metro Phoenix Bank. A more dedicated, hardworking, and honest person is hard to find in the banking world. I am glad to have been working with Steve for so many years and serving with him as a director and at Metro Phoenix Bank.
+
+My family has been very helpful in many ways. My children grew up in the real estate and lending world and many of them have contributed to reading and editing past versions of the manuscript.
+
+My son Nicholas Hilton was with Hilton Financial Corporation for many years. At the beginning of the Great Recession, he decided he wanted to move to a cooler climate, so off to Denver he and his family went. He is currently an underwriter for a mortgage company and also holds a real estate license in Arizona. Nick helped with organizing and editing the early manuscripts of this work, for which I am grateful.
+
+My son, Jack Hilton II, has helped compile and edit this book, bringing it from the early manuscripts to a finished product. Jack added a lot of content to this book from his personal knowledge and research. Jack is a loan officer at Hilton Financial Corporation and has been with the company for many years. He knows the business inside and out, and I am very grateful for the dedication he has shown on this project.
+
+My son Beau Hilton and daughter, Charli Hilton Hayes, have both reviewed and made comments on earlier manuscripts. Beau is a doctor, currently serving his residency and internship at Vanderbilt, and Charli is currently working at Metro Phoenix Bank. Both are high performers in their fields.
+
+My wife, Marci, has been an inspiration to this work from the beginning. When we were first married, I had to learn to not talk real estate and finance in every conversation. There are a lot more romantic conversations to be spoken than talking shop. Marci can hold her own with any conversation in the subject of real estate or finance, and it is fun to watch and listen. We have five wonderful children. We had three children and then an eight-year gap, and then two more. Marci likes to tell people she was a single mom with the first three children. It took me that long to figure things out and get my head above the water of learning, even though we are never really done learning. Heaven forbid.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{authormessage}{%
+\chapter*{A Message from the Author}\label{authormessage}}
+
+
+Lending money to others is one of the oldest businesses in the world. You read about it in the Bible and many other ancient books. In this book, we'll discuss a wide array of investments associated with moneylending and banking. We'll briefly discuss the history of banking. We'll talk about the types of banks extant today. We'll talk about starting your own bank, whether that will be a large mortgage banking operation, or a small, self-directed lending business. I'll give you an overview of the common concerns bankers and private lenders deal with daily. We'll review common ways to protect your investments and how the current laws either enable or limit your investments.
+
+This publication is designed to provide general information about the subject matter covered. Bearing in mind that laws and practices vary from city to city, state to state, and country to country, and also because each individual situation will be different, the reader should consult with appropriate advisors regarding any specific situation.
+
+The author has taken reasonable precautions in the preparation of this book and believes the material is accurate as of the date it was written. However, neither the author nor the publisher assume any responsibility for any error or omission. Nor can we warrant accuracy against the progress of time. Legislation and industry practices may further change the face of lending with each day that passes. The author and publisher specifically disclaim any liability resulting from the use or application of the information contained in this book. The information in this book is not intended to serve as legal or professional advice related to any individual situation.
+
+With the above legal disclaimer out of the way, we're free to jump into the fascinating world of moneylending. But first, I'll tell you about how I got my start in banking and some of the important milestones and anecdotes from my career.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{acknowledgements-disclaimers}{%
+\chapter*{ACKNOWLEDGEMENTS / DISCLAIMERS}\label{acknowledgements-disclaimers}}
+
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{acknowledgments}{%
+\section*{Acknowledgments}\label{acknowledgments}}
+
+
+Acknowledgments go here.
+
+\hypertarget{disclaimer-1}{%
+\section*{Disclaimer}\label{disclaimer-1}}
+
+
+Disclaimer if you need one.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{chaptershortref}{%
+\chapter{chapter title}\label{chaptershortref}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{section-title}{%
+\section*{Section title}\label{section-title}}
+
+
+\hypertarget{subsection-title}{%
+\subsection*{Subsection title}\label{subsection-title}}
+
+
+\hypertarget{chapter-template}{%
+\chapter*{CHAPTER TEMPLATE}\label{chapter-template}}
+
+
+Putting the \texttt{\{-\}} after the section name makes it so the chapter will not be automatically numbered.
+
+\hypertarget{subsection-title-1}{%
+\section{SUBSECTION TITLE}\label{subsection-title-1}}
+
+The more \texttt{\#\#\#} you add, the farther down you go into subsections.
+See how this one got a number, because we didn't add the \texttt{\{-\}}?
+
+\hypertarget{picturetemplate}{%
+\section*{Addng pictures}\label{picturetemplate}}
+
+
+The following code will insert a picture.
+
+\begin{figure}
+\centering
+\includegraphics{images/macarons.jpg}
+\caption{\label{fig:example-macarons}A pretty picture of tasty food}
+\end{figure}
+
+The phrase after the first \texttt{r} must be hypenated if it's more than one word (spaces will confuse it),
+it's a reference you can use later if you want to point the reader to this specific image.
+
+\texttt{fig.cap} allows you to add a caption.
+
+\texttt{echo\ =\ FALSE} makes it so the code that inserts the picture does not show up in the final product (switch it to \texttt{TRUE} or leave it out to see what happens).
+
+the \texttt{knitr}\ldots{} section contains a path to the image.
+It's probably easiest to upload all the images in the \texttt{images} folder,
+and give them all short and easy names.
+
+(If you're looking at the source code, notice that we added \texttt{\#picturetemplate} after the \texttt{\{-} part of the section title.
+This allows us to reference this section elsewhere in the book, with a clickable link, if wanted.
+If we end up changing the order of things, it will automatically detect that and correct the link and numbering for it,
+so it's better than using a page number or something like that.)
+
+\hypertarget{subsubsection-title}{%
+\subsection*{SUBSUBSECTION TITLE}\label{subsubsection-title}}
+
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{notes}{%
+\chapter*{NOTES}\label{notes}}
+
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}
