@@ -1,3 +1,2 @@
 fig:example-macarons
-chaptershortref
-subsection-title-1
+subsection-title
