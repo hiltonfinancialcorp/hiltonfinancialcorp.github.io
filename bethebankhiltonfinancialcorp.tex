@@ -200,4 +200,68 @@ Notes could go here.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
+\hypertarget{chapter-template-1}{%
+\chapter*{CHAPTER TEMPLATE}\label{chapter-template-1}}
+
+
+Here's another chapter file.
+
+You can split each chapter into files, or use one big file. Whatever you'd like!
+
+When you add a chapter, go to the \texttt{\_bookdown.yml} file and add it to the list of files to be included in the book, in the order you'd like them.
+
+E.g.
+
+\texttt{rmd\_files:\ {[}"index.Rmd",\ "01-chapter.Rmd,\ "02-chapter.Rmd"{]}}
+
+This lets you rearrange the book easily, by rearranging the order of items in the list:
+
+\texttt{rmd\_files:\ {[}"index.Rmd",\ "02-chapter.Rmd,\ "01-chapter.Rmd"{]}}
+
+The file names don't really matter,
+since you're specifying the order of files manually,
+but most folks use the \texttt{xx-name} style.
+
+It might also make sense to not use numbers, and instead titles.
+
+\texttt{rmd\_files:\ {[}"index.Rmd",\ "my-start.Rmd,\ "history-banking.Rmd"{]}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{subsection-title-1}{%
+\section{SUBSECTION TITLE}\label{subsection-title-1}}
+
+The more \texttt{\#\#\#} you add, the farther down you go into subsections.
+See how this one got a number, because we didn't add the \texttt{\{-\}}?
+
+\hypertarget{addng-pictures}{%
+\section*{Addng pictures}\label{addng-pictures}}
+
+
+The following code will insert a picture.
+
+\begin{figure}
+\centering
+\includegraphics{images/coins.jpg}
+\caption{\label{fig:example-coins}Durable!}
+\end{figure}
+
+\hypertarget{subsubsection-title-1}{%
+\subsection*{SUBSUBSECTION TITLE}\label{subsubsection-title-1}}
+
+
+Such nesting!
+
+Look, a \protect\hyperlink{picturetemplate}{clickable link} to somewhere else in the book!
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{notes-1}{%
+\chapter*{NOTES}\label{notes-1}}
+
+
+Notes could go here.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
 \end{document}

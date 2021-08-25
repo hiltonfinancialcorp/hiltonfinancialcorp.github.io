@@ -1,2 +1,4 @@
 fig:example-macarons
+fig:example-coins
 subsection-title
+subsection-title-1

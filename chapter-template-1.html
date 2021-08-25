@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Page not found | Be The Bank</title>
+  <title>CHAPTER TEMPLATE | Be The Bank</title>
   <meta name="description" content="You Are the Bank!" />
   <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Page not found | Be The Bank" />
+  <meta property="og:title" content="CHAPTER TEMPLATE | Be The Bank" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="hiltonfinancialcorp/hiltonfinancialcorp.github.io" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Page not found | Be The Bank" />
+  <meta name="twitter:title" content="CHAPTER TEMPLATE | Be The Bank" />
   
   <meta name="twitter:description" content="You Are the Bank!" />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-
+<link rel="prev" href="notes.html"/>
+<link rel="next" href="notes-1.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -103,19 +103,50 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="page-not-found" class="section level1">
-<h1>Page not found</h1>
-<p>The page you requested cannot be found (perhaps it was moved or renamed).</p>
-<p>You may want to try searching to find the page's new location, or use
-the table of contents to find the page you are looking for.</p>
+<div id="chapter-template-1" class="section level1 unnumbered">
+<h1>CHAPTER TEMPLATE</h1>
+<p>Here’s another chapter file.</p>
+<p>You can split each chapter into files, or use one big file. Whatever you’d like!</p>
+<p>When you add a chapter, go to the <code>_bookdown.yml</code> file and add it to the list of files to be included in the book, in the order you’d like them.</p>
+<p>E.g.</p>
+<p><code>rmd_files: ["index.Rmd", "01-chapter.Rmd, "02-chapter.Rmd"]</code></p>
+<p>This lets you rearrange the book easily, by rearranging the order of items in the list:</p>
+<p><code>rmd_files: ["index.Rmd", "02-chapter.Rmd, "01-chapter.Rmd"]</code></p>
+<p>The file names don’t really matter,
+since you’re specifying the order of files manually,
+but most folks use the <code>xx-name</code> style.</p>
+<p>It might also make sense to not use numbers, and instead titles.</p>
+<p><code>rmd_files: ["index.Rmd", "my-start.Rmd, "history-banking.Rmd"]</code></p>
+<hr />
+<div id="subsection-title-1" class="section level2">
+<h2><span class="header-section-number">0.2</span> SUBSECTION TITLE</h2>
+<p>The more <code>###</code> you add, the farther down you go into subsections.
+See how this one got a number, because we didn’t add the <code>{-}</code>?</p>
+</div>
+<div id="addng-pictures" class="section level2 unnumbered">
+<h2>Addng pictures</h2>
+<p>The following code will insert a picture.</p>
+<div class="figure"><span style="display:block;" id="fig:example-coins"></span>
+<img src="images/coins.jpg" alt="Durable!"  />
+<p class="caption">
+Picture 2: Durable!
+</p>
+</div>
+<div id="subsubsection-title-1" class="section level3 unnumbered">
+<h3>SUBSUBSECTION TITLE</h3>
+<p>Such nesting!</p>
+<p>Look, a <a href="chapter-template.html#picturetemplate">clickable link</a> to somewhere else in the book!</p>
+<hr />
+</div>
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-
-
+<a href="notes.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="notes-1.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -147,7 +178,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/hiltonfinancialcorp/hiltonfinancialcorp.github.io/edit/master/%s",
+"link": "https://github.com/hiltonfinancialcorp/hiltonfinancialcorp.github.io/edit/master/02-chapter.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -155,7 +186,7 @@ gitbook.start({
 "text": null
 },
 "view": {
-"link": "https://github.com/hiltonfinancialcorp/hiltonfinancialcorp.github.io/blob/master/%s",
+"link": "https://github.com/hiltonfinancialcorp/hiltonfinancialcorp.github.io/blob/master/02-chapter.Rmd",
 "text": null
 },
 "download": ["bethebankhiltonfinancialcorp.pdf", "bethebankhiltonfinancialcorp.epub"],
