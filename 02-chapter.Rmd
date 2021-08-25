@@ -37,25 +37,11 @@ The following code will insert a picture.
 
 
 
-```{r example-macarons, fig.cap='A pretty picture of tasty food', echo = FALSE}
-knitr::include_graphics(rep('images/macarons.jpg'))
+```{r example-coins, fig.cap='Durable!', echo = FALSE}
+knitr::include_graphics(rep('images/coins.jpg'))
 ```
 
-The phrase after the first `r` must be hypenated if it's more than one word (spaces will confuse it), 
-it's a reference you can use later if you want to point the reader to this specific image.
 
-`fig.cap` allows you to add a caption.
-
-`echo = FALSE` makes it so the code that inserts the picture does not show up in the final product (switch it to `TRUE` or leave it out to see what happens).
-
-the `knitr`... section contains a path to the image. 
-It's probably easiest to upload all the images in the `images` folder, 
-and give them all short and easy names.
-
-(If you're looking at the source code, notice that we added `#picturetemplate` after the `{-` part of the section title. 
-This allows us to reference this section elsewhere in the book, with a clickable link, if wanted.
-If we end up changing the order of things, it will automatically detect that and correct the link and numbering for it,
-so it's better than using a page number or something like that.)
 
 ### SUBSUBSECTION TITLE {-}
 
