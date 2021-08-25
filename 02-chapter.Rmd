@@ -61,7 +61,7 @@ so it's better than using a page number or something like that.)
 
 Such nesting!
 
-Look, a [clickable link](#phototemplate) to somewhere else in the book!
+Look, a [clickable link](#picturetemplate) to somewhere else in the book!
 
 ---
 
