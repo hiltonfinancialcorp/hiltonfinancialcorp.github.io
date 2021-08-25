@@ -1,31 +1,10 @@
-# ACKNOWLEDGEMENTS / DISCLAIMERS {-}
-
----
-
----
-
-## Acknowledgments {-}
-Acknowledgments go here.
-
-## Disclaimer {-}
-Disclaimer if you need one.
-
----
-
-# chapter title {#chaptershortref}
-
----
-
----
-
-## Section title {-}
-
-### Subsection title {-}
-
-
 # CHAPTER TEMPLATE {-}
 
-Putting the `{-}` after the section name makes it so the chapter will not be automatically numbered.
+Putting the `{-}` after the section name makes it so the chapter title will not include a number, if you like that look better.
+
+`---` adds a horizontal line, as below, if you'd like to have a separator between sections.
+
+---
 
 
 ##  SUBSECTION TITLE
@@ -61,11 +40,13 @@ so it's better than using a page number or something like that.)
 
 ### SUBSUBSECTION TITLE {-}
 
+Such nesting!
 
 ---
 
 # NOTES {- #notes} 
 
+Notes could go here.
 
 ---
 
