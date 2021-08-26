@@ -31,13 +31,10 @@ The reader should not rely on the material in this text. If legal, professional,
 
 All rights reserved.
 
-> Jack Hilton, President
-> 
-> Hilton Financial Corporation
-> 
-> 11024 N 28th Drive, Suite 170
-> 
-> Phoenix, AZ 85029-4329
+| Jack Hilton, President
+| Hilton Financial Corporation 
+| 11024 N 28th Drive, Suite 170 
+| Phoenix, AZ 85029-4329
 
 ---
 
