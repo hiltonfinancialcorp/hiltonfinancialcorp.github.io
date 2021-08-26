@@ -18,6 +18,7 @@ indent: true
 header-includes:
   - \usepackage{wrapfig}
   - \usepackage{indentfirst}
+  - \setlength\parindent{24pt}
 ---
 
 
