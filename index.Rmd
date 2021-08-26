@@ -14,8 +14,10 @@ documentclass: book
 link-citations: yes
 github-repo: hiltonfinancialcorp/hiltonfinancialcorp.github.io
 description: "You Are the Bank!"
+indent: true
 header-includes:
   - \usepackage{wrapfig}
+  - \usepackage{indentfirst}
 ---
 
 
