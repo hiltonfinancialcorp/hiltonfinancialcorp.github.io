@@ -3,7 +3,7 @@ title: "Be The Bank"
 author: "Jack W Hilton"
 date: "`r Sys.Date()`"
 description: "You Are the Bank!"
-url: 'https://www.hiltonloans.com/'
+url: 'https://hiltonfinancialcorp.github.io/'
 cover-image: "images/hiltonloan-logo.png"
 favicon: "images/pig.png"
 site: bookdown::bookdown_site
@@ -48,6 +48,7 @@ All rights reserved.
 |   Hilton Financial Corporation 
 |   11024 N 28th Drive, Suite 170 
 |   Phoenix, AZ 85029-4329
+|   [www.hiltonloans.com](https://www.hiltonloans.com/)
 
 ---
 
