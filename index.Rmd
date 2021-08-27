@@ -2,9 +2,18 @@
 title: "Be The Bank"
 author: "Jack W Hilton"
 date: "`r Sys.Date()`"
+description: "You Are the Bank!"
+url: 'https://www.hiltonloans.com/'
+cover-image: "images/hiltonloan-logo.png"
+favicon: "images/pig.png"
 site: bookdown::bookdown_site
 output: 
-  bookdown::gitbook: default
+  bookdown::gitbook:
+    sharing:
+      facebook: true
+      twitter: true
+      linkedin: true
+      all: ['facebook', 'twitter', 'linkedin', 'instapaper', 'github']
   bookdown::pdf_book:
     keep_tex: yes
     latex_engine: xelatex
@@ -13,7 +22,7 @@ output:
 documentclass: book
 link-citations: yes
 github-repo: hiltonfinancialcorp/hiltonfinancialcorp.github.io
-description: "You Are the Bank!"
+
 indent: true
 header-includes:
   - \usepackage{wrapfig}
