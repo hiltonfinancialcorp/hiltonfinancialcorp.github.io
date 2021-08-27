@@ -1,5 +1,7 @@
 --- 
-title: "Be The Bank"
+title: |
+  ![](images/hiltonloan-logo.png)  
+  Be The Bank
 author: "Jack W Hilton"
 date: "`r Sys.Date()`"
 description: "You Are the Bank!"
