@@ -4,9 +4,16 @@ author: "Jack W Hilton"
 date: "`r Sys.Date()`"
 description: "You Are the Bank!"
 url: 'https://hiltonfinancialcorp.github.io/'
+github-repo: hiltonfinancialcorp/hiltonfinancialcorp.github.io
 cover-image: "images/hiltonloan-logo.png"
 favicon: "images/pig.png"
 site: bookdown::bookdown_site
+documentclass: book
+link-citations: yes
+indent: true
+header-includes:
+  - \usepackage{wrapfig}
+  - \usepackage{indentfirst}
 output: 
   bookdown::gitbook:
     sharing:
@@ -19,14 +26,6 @@ output:
     latex_engine: xelatex
     toc_unnumbered: no
     toc_appendix: yes
-documentclass: book
-link-citations: yes
-github-repo: hiltonfinancialcorp/hiltonfinancialcorp.github.io
-
-indent: true
-header-includes:
-  - \usepackage{wrapfig}
-  - \usepackage{indentfirst}
 ---
 
 
